@@ -1,0 +1,110 @@
+[
+ {
+  "a": 369,
+  "b": 453,
+  "lat": -34.7356,
+  "lng": -58.246861,
+  "tipo": "rivalidad",
+  "titulo": "Dorrego y Lavalle",
+  "texto": "En 1828 el unitario Juan Lavalle derrocó al gobernador federal Manuel Dorrego y lo hizo fusilar en Navarro sin juicio. Acá se cruzan."
+ },
+ {
+  "a": 455,
+  "b": 50,
+  "lat": -34.724309,
+  "lng": -58.259541,
+  "tipo": "rivalidad",
+  "titulo": "Alem e Yrigoyen",
+  "texto": "Tío y sobrino, fundadores del radicalismo y enfrentados por la conducción del partido. Alem se suicidó en 1896."
+ },
+ {
+  "a": 480,
+  "b": 594,
+  "lat": -34.716697,
+  "lng": -58.262562,
+  "tipo": "rivalidad",
+  "titulo": "Moreno y Saavedra",
+  "texto": "Morenistas contra saavedristas: la primera grieta de la Primera Junta. Moreno renunció y murió en alta mar en 1811."
+ },
+ {
+  "a": 15,
+  "b": 607,
+  "lat": -34.715056,
+  "lng": -58.257256,
+  "tipo": "rivalidad",
+  "titulo": "Alberdi y Sarmiento",
+  "texto": "Protagonizaron una famosa polémica por carta: las 'Cartas quillotanas' de Alberdi contra 'Las ciento y una' de Sarmiento (1853)."
+ },
+ {
+  "a": 586,
+  "b": 599,
+  "lat": -34.723045,
+  "lng": -58.259169,
+  "tipo": "rivalidad",
+  "titulo": "Rivadavia y San Martín",
+  "texto": "San Martín responsabilizó a Rivadavia de haberle negado apoyo a la campaña libertadora. Se detestaban."
+ },
+ {
+  "a": 50,
+  "b": 558,
+  "lat": -34.725948,
+  "lng": -58.25859,
+  "tipo": "rivalidad",
+  "titulo": "Yrigoyen y Perón",
+  "texto": "El joven capitán Perón participó en el golpe de 1930 que derrocó a Yrigoyen. Los dos lideraron después los grandes movimientos populares del siglo XX."
+ },
+ {
+  "a": 47,
+  "b": 298,
+  "lat": -34.758515,
+  "lng": -58.297067,
+  "tipo": "amistad",
+  "titulo": "San Martín y Belgrano",
+  "texto": "Se conocieron en 1814 en la posta de Yatasto, cuando San Martín relevó a Belgrano en el Ejército del Norte. Se admiraron siempre."
+ },
+ {
+  "a": 468,
+  "b": 457,
+  "lat": -34.734098,
+  "lng": -58.236199,
+  "tipo": "curiosa",
+  "titulo": "Lugones y Libertad",
+  "texto": "Leopoldo Lugones anunció en 1924 que había llegado 'la hora de la espada' y apoyó el golpe de 1930. Su calle se cruza con Libertad."
+ },
+ {
+  "a": 653,
+  "b": 658,
+  "lat": -34.728862,
+  "lng": -58.299662,
+  "tipo": "historia",
+  "titulo": "Calchaquí y Los Quilmes",
+  "texto": "Los quilmes vivían en los Valles Calchaquíes y fueron desterrados a esta zona en 1666. Así nació Quilmes."
+ },
+ {
+  "a": 38,
+  "b": 722,
+  "lat": -34.747591,
+  "lng": -58.299847,
+  "tipo": "historia",
+  "titulo": "12 de Octubre e Isabel Pallamay",
+  "texto": "La llegada de los españoles a América cruzada con la cacica quilme que les ganó un juicio a los usurpadores de su cacicazgo."
+ },
+ {
+  "a": 40,
+  "b": 336,
+  "lat": -34.701683,
+  "lng": -58.281331,
+  "tipo": "historia",
+  "titulo": "Caseros y Constitución",
+  "texto": "Primero Caseros, en 1852, con la caída de Rosas. Al año siguiente, la Constitución Nacional."
+ },
+ {
+  "a": 380,
+  "b": 655,
+  "lat": -34.784329,
+  "lng": -58.299971,
+  "tipo": "curiosa",
+  "titulo": "Evita y Maradona",
+  "texto": "Dos íconos populares argentinos en la misma esquina de Solano."
+ }
+]

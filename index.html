@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QACLLES · Las calles de Quilmes</title>
+<meta name="description" content="Mapa de las calles del partido de Quilmes según a quién o a qué homenajean, con datos curiosos y la historia detrás de cada nombre.">
+<meta property="og:title" content="QACLLES · Las calles de Quilmes">
+<meta property="og:description" content="¿Quién fue la persona que le da nombre a tu calle? Mapa y datos de las calles de Quilmes.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%2300897B'/><path d='M6 22 L26 10 M6 10 L26 22' stroke='%23fff' stroke-width='3' stroke-linecap='round'/></svg>">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script type="module" src="js/main.js"></script>
+</head>
+<body class="cargando">
+<header class="top">
+  <a class="marca" href="#mapa"><span class="logo" aria-hidden="true"></span><span><b>QACLLES</b> <span class="marca-sub">Las calles de Quilmes</span></span></a>
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#mapa" aria-current="page">Mapa</a>
+    <a href="#datos">Datos</a>
+  </nav>
+</header>
+
+<main>
+  <section id="vista-mapa" class="vista-mapa">
+    <aside class="panel">
+      <p class="intro">Cada calle pintada según a quién o a qué homenajea su nombre. Pasá el mouse por una calle para saber quién fue.</p>
+      <input type="search" id="buscar" placeholder="Buscar una calle…" aria-label="Buscar una calle" autocomplete="off">
+      <div id="resultados" class="resultados"></div>
+      <div class="panel-tools"><span class="panel-t">Categorías</span><button type="button" id="todas" class="link">Todas</button><button type="button" id="ninguna" class="link">Ninguna</button></div>
+      <div id="leyenda" class="leyenda"></div>
+      <label class="chk"><input type="checkbox" id="ver-esquinas" checked> Esquinas con historia <span aria-hidden="true">⚔️ 🤝 😄 ✨</span></label>
+    </aside>
+    <div id="map" role="region" aria-label="Mapa de calles"></div>
+  </section>
+
+  <section id="vista-datos" class="vista-datos" hidden>
+    <div id="dashboard" class="dashboard"></div>
+  </section>
+
+  <div id="error" class="error" hidden>No se pudieron cargar los datos. Probá recargar la página.</div>
+</main>
+</body>
+</html>

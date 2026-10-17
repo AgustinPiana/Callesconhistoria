@@ -1,0 +1,800 @@
+Indice,Nombre,Grupo,Color,Fecha de muerte,Localidad,Está en capital?,Varios,Descripción,Género,Origen,Revisar
+1,177 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Calle 177),
+2,25 de Mayo,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,Primer gobierno patrio,,Relevada,
+3,26 de Julio de 1890,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,"Revolución del Parque, levantamiento de la Unión Cívica contra el gobierno de Juárez Celman.",,Relevada,
+4,27 de Noviembre,Batallas e Hitos Nacionales,Celeste,-,San Francisco Solano,?,,Fecha de Asunción de Juan Domingo Perón a la Secretaria de Trabajo y Previsión. - Fecha de fundación del Quilmes Atlético Club.,,Relevada,
+5,3 de Febrero,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,"Fecha de la batalla de Caseros (1852), en la que Urquiza derrotó a Rosas.",,Nueva (de OSM),
+6,9 de Julio,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,Dia de la independencia,,Relevada,
+7,Acceso Presidente Perón,Politico Nacional,Amarillo,,Don Bosco,?,,Presidente,Hombre,Relevada (en tu planilla/mapa: Juan Domingo Peron),
+8,Aconcagua,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Cerro de Mendoza, el más alto de América (6.961 m).",,Relevada,
+9,Agente José Horacio Lora,Personalidad Local,Turquesa,,Quilmes,?,,Policía muerto en servicio.,Hombre,Nueva (de OSM),
+10,Agente Rufino Edelmiro Syerra,Personalidad Local,Turquesa,,Quilmes,?,,Policía muerto en servicio.,Hombre,Nueva (de OSM),
+11,Aguirre,"Artistas, Musicos y Escritores",Bordo,,Don Bosco,?,,"Fue un compositor, pianista, crítico musical, poeta y pedagogo argentino.",Hombre,Relevada (en tu planilla/mapa: Julián Antonio Tomás Aguirre),
+12,Agustín Álvarez,Profesiones Liberales,Azul,,Don Bosco,?,,"Fue un militar, sociólogo, moralista y educador argentino que se destaca en la denominada generación del ochenta, en el siglo XIX.",Hombre,Relevada,
+13,Agustín Bardi,"Artistas, Musicos y Escritores",Bordo,21/04/1941,Don Bosco,?,,"Fue un músico de tango,",Hombre,Relevada,
+14,Álamos,Flora y Fauna,Naranja,-,Quilmes,?,,Árbol.,,Nueva (de OSM),
+15,Alberdi,Politico Nacional,Amarillo,19/06/1884,Quilmes,?,,"Fue un abogado, jurista, economista, político, diplomático, escritor argentino, autor intelectual de la Constitución argentina de 1853",Hombre,Relevada (en tu planilla/mapa: Juan Bautista Alberdi),
+16,Albert Einstein,Personalidades Internacionales,Rosa,,Ezpeleta Oeste y Quilmes Oeste,?,,"Físico alemán, autor de la teoría de la relatividad.",Hombre,Nueva (de OSM),
+17,Albert Schweitzer,Personalidades Internacionales,Rosa,,Quilmes y Ezpeleta,?,,"Médico y misionero alsaciano, Nobel de la Paz 1952.",Hombre,Nueva (de OSM),
+18,Aldo Emir Jofre,Personalidad Local,Turquesa,,Bernal Oeste,?,,"Quilmeño perteneciente al Comando de la Resistencia CL113, fue capturado y asesinado por la Dictadura Militar de Aramburu luego del fallido levantamiento militar de Juan Jose Valle del 9 de junio de 1956.",Hombre,Relevada,
+19,Alfonsina Storni,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,Poeta argentina.,Mujer,Nueva (de OSM),
+20,Allison Bell,Personalidad Local,Turquesa,,Quilmes,?,,Personalidad local destacada por su participacion en la creacion del Hospital de Quilmes,Hombre,Relevada (en tu planilla/mapa: William Allison Bell),
+21,Almafuerte,"Artistas, Musicos y Escritores",Bordo,28/02/1917,Don Bosco,?,,Seudónimo más reconocido del poeta argentino Pedro Bonifacio Palacios.,Hombre,Relevada,
+22,Almirante Brown,Militares Nacionales,Marron,,Quilmes y Ezpeleta,?,,Fue almirante de la marina de guerra argentina y comandante de las fuerzas navales patriotas.,Hombre,Relevada (en tu planilla/mapa: Guillermo Brown),
+23,Alsina,Politico Nacional,Amarillo,29/12/1877,Quilmes,?,,Fue gobernador de la Provincia de Buenos Aires y vicepresidente de la República Argentina durante la presidencia de Domingo Faustino Sarmiento.,Hombre,Relevada (en tu planilla/mapa: Adolfo Alsina),
+24,Alvear,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Presidente de la Nacion,Hombre,Relevada (en tu planilla/mapa: Marcelo Torcuato de Alvear),
+25,Amadeo Sabatini,Politico Nacional,Amarillo,,San Francisco Solano y Villa La Florida,?,,"Amadeo Sabattini, gobernador radical de Córdoba. Antes calle 846.",Hombre,Cambió de nombre (en tu mapa: Calle 846),
+26,Ameghino,Profesiones Liberales,Azul,,Bernal Oeste y Bernal,?,,"Florentino Ameghino, paleontólogo.",Hombre,Nueva (de OSM),
+27,Andrade,"Artistas, Musicos y Escritores",Bordo,,Bernal,?,,"Olegario Víctor Andrade, poeta.",Hombre,Nueva (de OSM),
+28,Aníbal Troilo,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste,?,,"'Pichuco', bandoneonista y director de tango.",Hombre,Nueva (de OSM),
+29,Antártida Argentina,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Sector antártico reclamado por la Argentina.,,Relevada,
+30,Arenales,Militares Nacionales,Marron,,Bernal,?,,"Fue un destacado militar, que participó en las guerras de la independencia de Argentina, Bolivia, Chile y Perú",Hombre,Relevada (en tu planilla/mapa: Juan Antonio Álvarez de Arenales),
+31,Argentino Roca,Politico Nacional,Amarillo,19/10/1914,Don Bosco y Bernal Este,?,,Presidente,Hombre,Relevada (en tu planilla/mapa: Julio Argentino Roca),
+32,Aristóbulo del Valle,Politico Nacional,Amarillo,,Quilmes,?,,"Político, fundador de la Unión Cívica.",Hombre,Nueva (de OSM),
+33,Armando Daniel Croatto,Politico Nacional,Amarillo,,Villa La Florida,?,,"Diputado nacional, asesinado en 1979. Antes calle 826.",Hombre,Nueva (de OSM),
+34,Ascasubi,"Artistas, Musicos y Escritores",Bordo,,Quilmes y Bernal,?,,"Hilario Ascasubi, poeta gauchesco.",Hombre,Nueva (de OSM),
+35,Asunción,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital del Paraguay.,,Relevada,
+36,Autopista Doctor Ricardo Balbín,Politico Nacional,Amarillo,,"Quilmes, Bernal, Ezpeleta y Don Bosco",?,,Líder de la Unión Cívica Radical.,Hombre,Nueva (de OSM),
+37,Av. Eva Perón,Politico Nacional,Amarillo,,Quilmes Oeste y San Francisco Solano,?,,"Primera dama, esposa del presidente Juan Domingo Peron.",Mujer,Relevada (en tu planilla/mapa: Eva Peron),
+38,Avenida 12 de Octubre,Batallas e Hitos Nacionales,Celeste,-,Quilmes Oeste y Quilmes,?,,"Llegada de Colón a América (1492), hoy Día del Respeto a la Diversidad Cultural.",,Nueva (de OSM),
+39,Avenida Agustín Pedemonte,Personalidad Local,Turquesa,,Bernal Oeste,?,,"Destacado inmigrante italiano y pionero fundamental en el desarrollo social, religioso y urbanístico de Bernal.",Hombre,Relevada (en tu planilla/mapa: Agustin Pedemonte),
+40,Avenida Caseros,Batallas e Hitos Nacionales,Celeste,-,Don Bosco y Bernal,?,,"La Batalla de Caseros fue un enfrentamiento armado que tuvo lugar el 3 de febrero de 1852, en las afueras de la Ciudad de Buenos Aires, en lo que hoy es Lomas del Palomar",,Relevada (en tu planilla/mapa: Caseros),
+41,Avenida Cervantes,Personalidades Internacionales,Rosa,,Quilmes,?,,"Miguel de Cervantes, autor del Quijote.",Hombre,Nueva (de OSM),
+42,Avenida Cevallos,Personalidades Internacionales,Rosa,,Quilmes,?,,Primer Virrey del Virreynato del Rio de la Plata,Hombre,Relevada (en tu planilla/mapa: Pedro de Cevallos),
+43,Avenida Dardo Rocha,Politico Nacional,Amarillo,,Bernal Oeste y Bernal,?,,"Gobernador bonaerense, fundador de La Plata.",Hombre,Nueva (de OSM),
+44,Avenida Ferrocarril Provincial,Varios,Negro,,San Francisco Solano,?,,Por el ferrocarril que pasaba por Solano.,,Relevada (en tu planilla/mapa: Ferrocarril Provincial),
+45,Avenida Florencio Varela,"Artistas, Musicos y Escritores",Bordo,20/03/1848,Ezpeleta Oeste y Ezpeleta,?,,"Fue un escritor, periodista, político y educador argentino. Se desempeñó como diplomático a favor de los intereses unitarios en el exilio luchando contra el gobierno de Juan Manuel de Rosas",Hombre,Relevada (en tu planilla/mapa: Florencio Varela),
+46,Avenida General Mosconi,Militares Nacionales,Marron,,Quilmes Oeste y Villa La Florida,?,,"Enrique Mosconi, general e ingeniero, primer director de YPF.",Hombre,Nueva (de OSM),
+47,Avenida General San Martín,Militares Nacionales,Marron,,Quilmes,?,,"Libertador de Argentina, Chile y Peru",Hombre,Relevada (en tu planilla/mapa: Jose de San Martin),
+48,Avenida Gobernador Monteverde,Politico Nacional,Amarillo,28/07/1925,San Francisco Solano y Villa La Florida,?,,"Fue un agrimensor, ingeniero y político argentino, que ocupó el cargo de gobernador de la provincia de Buenos Aires entre 1921 y 1922.",Hombre,Relevada (en tu planilla/mapa: Luis Monteverde),
+49,Avenida Guillermo Enrique Hudson,"Artistas, Musicos y Escritores",Bordo,,San Francisco Solano y Quilmes Oeste,?,,"Escritor y naturalista nacido en Quilmes (1841), autor de 'Allá lejos y hace tiempo'.",Hombre,Cambió de nombre (en tu mapa: Calle 893),
+50,Avenida Hipólito Yrigoyen,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Presidente de la Nacion,Hombre,Relevada (en tu planilla/mapa: Hipolito Yrigoyen),
+51,Avenida Italia,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes,?,,"País europeo, origen de gran parte de la inmigración quilmeña.",,Nueva (de OSM),
+52,Avenida José Hernández,"Artistas, Musicos y Escritores",Bordo,,Quilmes y Ezpeleta,?,,Autor del Martín Fierro.,Hombre,Nueva (de OSM),
+53,Avenida La Plata,"Geografia, Provincias y Ciudades",Verde Musgo,-,"Quilmes Oeste, Quilmes, Ezpeleta y Ezpeleta Oeste",?,,Capital de la provincia de Buenos Aires.,,Nueva (de OSM),
+54,Avenida Lamadrid,Militares Nacionales,Marron,,"Quilmes Oeste, Bernal Oeste, Bernal y Quilmes",?,,"Gregorio Aráoz de Lamadrid, militar de la independencia.",Hombre,Nueva (de OSM),
+55,Avenida Las Heras,Militares Nacionales,Marron,,Bernal,?,,"Juan Gregorio de Las Heras, militar del Ejército de los Andes.",Hombre,Nueva (de OSM),
+56,Avenida Los Álamos,Flora y Fauna,Naranja,-,Quilmes,?,,Árbol.,,Nueva (de OSM),
+57,Avenida Mitre,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Fue Presidente de la Nacion y Gobernador de la Provincia de Buenos Aires,Hombre,Relevada (en tu planilla/mapa: Bartolome Mitre),
+58,Avenida Montevideo,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Capital del Uruguay.,,Relevada (en tu planilla/mapa: Montevideo),
+59,Avenida Mozart,Personalidades Internacionales,Rosa,,Quilmes,?,,"Wolfgang Amadeus Mozart, compositor austríaco.",Hombre,Nueva (de OSM),
+60,Avenida Presidente Néstor Carlos Kirchner,Politico Nacional,Amarillo,,Quilmes Oeste,?,,Presidente de la Nación (2003-2007).,Hombre,Cambió de nombre (en tu mapa: Santa Fe),
+61,Avenida República de Francia,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País europeo.,,Relevada (en tu planilla/mapa: Republica de Francia),
+62,Avenida Ribereña,Varios,Negro,,Bernal Oeste,?,,Avenida costera.,,Relevada (en tu planilla/mapa: Ribereña),
+63,Avenida Ribereña Las Piedras,Varios,Negro,,San Francisco Solano y Bernal Oeste,?,avenida ribereña,Avenida a orillas del arroyo Las Piedras.,,Relevada (en tu planilla/mapa: Ribereña Las Piedras),
+64,Avenida Ribereña San Francisco,Varios,Negro,,Bernal Oeste,?,,Avenida ribereña de Solano.,,Relevada (en tu planilla/mapa: Ribereña),
+65,Avenida San Martín,Militares Nacionales,Marron,,Quilmes,?,,"Libertador de Argentina, Chile y Peru",Hombre,Relevada (en tu planilla/mapa: Jose de San Martin),
+66,Avenida Teniente General Donato Álvarez,Militares Nacionales,Marron,,Bernal Oeste,?,,"Fue un militar argentino, que participó en las guerras civiles, en las luchas contra los indígenas y en la Guerra del Paraguay",Hombre,Relevada (en tu planilla/mapa: General Donato Alvarez),
+67,Avenida Tomás Espora,Militares Nacionales,Marron,,Bernal,?,,"Marino, héroe de la guerra con el Brasil.",Hombre,Nueva (de OSM),
+68,Avenida Tomás Flores,Personalidad Local,Turquesa,,Bernal Oeste,?,primer juez local,Fue electo como el primer Juez en 1855 luego de la primera elección municipal.,Hombre,Relevada (en tu planilla/mapa: Tomas Flores),
+69,Avenida Zapiola,Militares Nacionales,Marron,,Bernal Oeste y Bernal,?,,"José Matías Zapiola, marino de la independencia.",Hombre,Nueva (de OSM),
+70,Ayacucho,Batallas e Hitos Nacionales,Celeste,-,Don Bosco y Bernal,?,,Batalla librada en el actual Peru que selló la independencia del Perú y marcó el fin del dominio colonial español en América del Sur,,Relevada,
+71,Ayolas,Personalidades Internacionales,Rosa,,Quilmes Oeste y Quilmes,?,,"Juan de Ayolas, conquistador español del Río de la Plata.",Hombre,Nueva (de OSM),
+72,Azcuénaga,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,"Miguel de Azcuénaga, vocal de la Primera Junta.",Hombre,Nueva (de OSM),
+73,Azcuénaga Bis,Politico Nacional,Amarillo,,Ezpeleta,?,,"Miguel de Azcuénaga, vocal de la Primera Junta.",Hombre,Cambió de nombre (en tu mapa: Concordia),
+74,Bahía Blanca,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad del sur bonaerense.,,Relevada,
+75,Balcarce,Militares Nacionales,Marron,,Quilmes,?,,"Antonio González Balcarce, vencedor de Suipacha.",Hombre,Nueva (de OSM),
+76,Baradero,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad del norte bonaerense.,,Relevada,
+77,Belgrano,Militares Nacionales,Marron,,Don Bosco y Bernal,?,,"Mas que militar, tuvo fuerte importancia durante la Revolucion de Mayo y las batallas sucesivas. Creador de la Bandera Nacional.",Hombre,Relevada,
+78,Benito Pérez Galdós,Personalidades Internacionales,Rosa,,Quilmes Oeste y Quilmes,?,,Novelista español.,Hombre,Nueva (de OSM),
+79,Bermejo,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,"Río del norte argentino, afluente del Paraguay.",,Relevada,
+80,Bermejo bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Bermejo),
+81,Bermejo Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Bermejo),
+82,Bermúdez,"Artistas, Musicos y Escritores",Bordo,,Don Bosco,?,,"Fue un pintor costumbrista argentino. Ademas, discupulo de Ernesto de la Cárcova.",Hombre,Relevada (en tu planilla/mapa: Jorge Bermúdez),
+83,Bernardo de Irigoyen,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Político y diplomático.,Hombre,Nueva (de OSM),
+84,Blas Parera,"Artistas, Musicos y Escritores",Bordo,,Quilmes y Ezpeleta,?,,Compositor de la música del Himno Nacional.,Hombre,Nueva (de OSM),
+85,Bogotá,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital de Colombia.,,Relevada,
+86,Bolivia,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País limítrofe.,,Relevada,
+87,Bombero Galarza,Personalidad Local,Turquesa,,Ezpeleta Oeste,?,,Bombero voluntario.,Hombre,Nueva (de OSM),
+88,Bouchard,Militares Nacionales,Marron,,Bernal,?,,"Hipólito Bouchard, corsario al servicio de la independencia.",Hombre,Nueva (de OSM),
+89,Brandsen,Militares Nacionales,Marron,20/02/1827,Quilmes,?,,"Fue un militar de origen francés que combatió por la causa revolucionaria en las guerras de la independencia hispanoamericana, y bajo la bandera argentina en la Guerra del Brasil.",Hombre,Relevada (en tu planilla/mapa: Federico de Brandsen),
+90,Brasil,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País limítrofe.,,Relevada,
+91,Buenos Aires,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia y ciudad capital del país.,,Relevada,
+92,Cabo Bombero Remigio Toledo,Personalidad Local,Turquesa,,Quilmes,?,,Bombero voluntario.,Hombre,Nueva (de OSM),
+93,Cabo Caballero,Personalidad Local,Turquesa,,Bernal Oeste,?,,Soldado conscripto asesinado en el asalto al batallon de Monte Chinglo en 1975.,Hombre,Relevada (en tu planilla/mapa: Roberto Caballero),
+94,Cabo Raúl Sessa,Personalidad Local,Turquesa,,Bernal Oeste,?,,Soldado conscripto asesinado en el asalto al batallon de Monte Chinglo en 1975.,Hombre,Relevada (en tu planilla/mapa: Raul Sessa),
+95,Cabo Remigio Adán Toledo,Personalidad Local,Turquesa,,Quilmes,?,,Bombero voluntario.,Hombre,Nueva (de OSM),
+96,Cabo Ruffolo,Personalidad Local,Turquesa,,Bernal Oeste,?,,Soldado conscripto asesinado en el asalto al batallon de Monte Chinglo en 1975.,Hombre,Relevada (en tu planilla/mapa: Benito Ruffolo),
+97,Callao,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Puerto del Perú.,,Relevada,
+98,Calle 1,Numeradas,Violeta,-,Bernal,?,,Calle numerada.,,Nueva (de OSM),
+99,Calle 103 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+100,Calle 105 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+101,Calle 108 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+102,Calle 111 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+103,Calle 115 Bis,Numeradas,Violeta,-,Bernal,?,,Calle numerada.,,Nueva (de OSM),
+104,Calle 119,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+105,Calle 160,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Benjamin Victorica),
+106,Calle 162,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+107,Calle 162 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+108,Calle 163 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+109,Calle 164 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada (en tu planilla/mapa: Calle 164),
+110,Calle 168,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Aldo Emir Jofre),
+111,Calle 169,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+112,Calle 170,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+113,Calle 170 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+114,Calle 171,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+115,Calle 171 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+116,Calle 172,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+117,Calle 172 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+118,Calle 173,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+119,Calle 173 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+120,Calle 174,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+121,Calle 174 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+122,Calle 175,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+123,Calle 175 bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+124,Calle 176,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+125,Calle 177,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+126,Calle 178,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+127,Calle 179,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+128,Calle 181,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+129,Calle 183,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+130,Calle 184,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+131,Calle 185,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+132,Calle 186,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Cambió de nombre (en tu mapa: San Marcos),
+133,Calle 187,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+134,Calle 188,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+135,Calle 189,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+136,Calle 190,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+137,Calle 191,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+138,Calle 191 A,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada (en tu planilla/mapa: Calle 191),
+139,Calle 191 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+140,Calle 192,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+141,Calle 193,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+142,Calle 193 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+143,Calle 194,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+144,Calle 194 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+145,Calle 195,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+146,Calle 196,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+147,Calle 196 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+148,Calle 197,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+149,Calle 198,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+150,Calle 199,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Relevada,
+151,Calle 199 Bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),
+152,Calle 214 Bis,Numeradas,Violeta,-,Don Bosco,?,,Calle numerada.,,Relevada,
+153,Calle 222,Numeradas,Violeta,-,Bernal,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Almafuerte),
+154,Calle 23 Bis,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Relevada,
+155,Calle 25 Bis,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Relevada,
+156,Calle 26 Bis,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Relevada,
+157,Calle 261,Numeradas,Violeta,-,Don Bosco,?,,Calle numerada.,,Relevada,
+158,Calle 264,Numeradas,Violeta,-,Don Bosco,?,,Calle numerada.,,Relevada,
+159,Calle 280,Numeradas,Violeta,-,Bernal,?,,Calle numerada.,,Nueva (de OSM),
+160,Calle 30 A,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Nueva (de OSM),
+161,Calle 306 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+162,Calle 310 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+163,Calle 314 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+164,Calle 320 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+165,Calle 324 Bis,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Nueva (de OSM),
+166,Calle 325 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+167,Calle 333 Bis,Numeradas,Violeta,-,Quilmes y Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+168,Calle 340 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+169,Calle 347 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+170,Calle 365 Bis,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Nueva (de OSM),
+171,Calle 369 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+172,Calle 372 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+173,Calle 373 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+174,Calle 379 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+175,Calle 394,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+176,Calle 395 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+177,Calle 396,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+178,Calle 396 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+179,Calle 397,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+180,Calle 397 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+181,Calle 398,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+182,Calle 398 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+183,Calle 399,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+184,Calle 399 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+185,Calle 401 bis,Numeradas,Violeta,-,Ezpeleta,?,,Calle numerada.,,Nueva (de OSM),
+186,Calle 403 Bis,Numeradas,Violeta,-,Ezpeleta,?,,Calle numerada.,,Nueva (de OSM),
+187,Calle 404 Bis,Numeradas,Violeta,-,Ezpeleta,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Paraguay),
+188,Calle 405 Bis,Numeradas,Violeta,-,Ezpeleta,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Paraguay),
+189,Calle 445 bis,Numeradas,Violeta,-,Ezpeleta,?,,Calle numerada.,,Nueva (de OSM),
+190,Calle 69 Bis,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Nueva (de OSM),
+191,Calle 801,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+192,Calle 803,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+193,Calle 804,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+194,Calle 805,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+195,Calle 805 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+196,Calle 806 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+197,Calle 807,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+198,Calle 807 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+199,Calle 808,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+200,Calle 809,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+201,Calle 810,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+202,Calle 811,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+203,Calle 812,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+204,Calle 812 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+205,Calle 813,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+206,Calle 813 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Cambió de nombre (en tu mapa: Calle 814),
+207,Calle 814,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+208,Calle 814 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+209,Calle 814 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+210,Calle 815 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+211,Calle 816,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+212,Calle 816 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+213,Calle 817,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+214,Calle 818,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+215,Calle 819,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+216,Calle 819 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+217,Calle 820,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+218,Calle 821,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+219,Calle 822,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+220,Calle 822 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+221,Calle 823,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+222,Calle 823 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+223,Calle 824,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+224,Calle 825,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada (en tu planilla/mapa: Calle 825 bis),
+225,Calle 826,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+226,Calle 827,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+227,Calle 828,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Nueva (de OSM),
+228,Calle 829,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+229,Calle 830,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+230,Calle 831,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+231,Calle 831 Bis,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+232,Calle 834,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+233,Calle 836,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+234,Calle 837,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+235,Calle 838,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+236,Calle 840,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+237,Calle 848,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+238,Calle 849,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+239,Calle 850,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+240,Calle 851,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+241,Calle 852,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+242,Calle 853,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+243,Calle 854,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+244,Calle 855,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+245,Calle 856,Numeradas,Violeta,-,San Francisco Solano y Villa La Florida,?,,Calle numerada.,,Relevada,
+246,Calle 857,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+247,Calle 857 Bis,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+248,Calle 859,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+249,Calle 860,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+250,Calle 861,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+251,Calle 862,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+252,Calle 863,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+253,Calle 864,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+254,Calle 865,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+255,Calle 866,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+256,Calle 867,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+257,Calle 868,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada (en tu planilla/mapa: Cale 868),
+258,Calle 869,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+259,Calle 870,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+260,Calle 870 Bis,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+261,Calle 871,Numeradas,Violeta,-,Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+262,Calle 874 Bis,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+263,Calle 875,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+264,Calle 875 Bis,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+265,Calle 877,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+266,Calle 878,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+267,Calle 879,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+268,Calle 880,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+269,Calle 881,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+270,Calle 881 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+271,Calle 882,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+272,Calle 882 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+273,Calle 883,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+274,Calle 883 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+275,Calle 884,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+276,Calle 884 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+277,Calle 885,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+278,Calle 886,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+279,Calle 886 bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+280,Calle 886 Bis,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Relevada,
+281,Calle 887,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+282,Calle 888,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+283,Calle 889,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+284,Calle 890,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+285,Calle 891,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+286,Calle 892,Numeradas,Violeta,-,Quilmes Oeste,?,,Calle numerada.,,Nueva (de OSM),
+287,Calle 892 Bis,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+288,Calle 893,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+289,Calle 893 Bis,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+290,Calle 894,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+291,Calle 896,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+292,Calle 897,Numeradas,Violeta,-,Quilmes Oeste y San Francisco Solano,?,,Calle numerada.,,Relevada,
+293,Calle 899 Bis,Numeradas,Violeta,-,San Francisco Solano,?,,Calle numerada.,,Relevada,
+294,Calle 95,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Relevada,
+295,Calle 96,Numeradas,Violeta,-,Quilmes,?,,Calle numerada.,,Nueva (de OSM),
+296,Calle Jujuy,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Jujuy),
+297,Calle Jujuy bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Jujuy),
+298,Camino General Belgrano,Militares Nacionales,Marron,,Bernal Oeste y Quilmes Oeste,?,,"Mas que militar, tuvo fuerte importancia durante la Revolucion de Mayo y las batallas sucesivas. Creador de la Bandera Nacional.",Hombre,Relevada (en tu planilla/mapa: General Manuel Belgrano),
+299,Canal de Beagle,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes,?,,"Canal del extremo sur, en Tierra del Fuego.",,Nueva (de OSM),
+300,Carabelas,Varios,Negro,,Don Bosco y Bernal,?,,Las carabelas de Colón.,,Relevada,
+301,Caracas,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital de Venezuela.,,Relevada,
+302,Carbonetti,Personalidad Local,Turquesa,,Bernal Oeste,?,,Estrechamente vinculada a la fundación y los primeros años de la Sociedad de Bomberos Voluntarios de Bernal,Hombre,Relevada (en tu planilla/mapa: Nicolás Carbonetti),
+303,Cardenal Cagliero,Clerical,Gris Azulado,,Bernal,?,,"Juan Cagliero, misionero salesiano de la Patagonia.",Hombre,Nueva (de OSM),
+304,Carlos Braggio,Personalidad Local,Turquesa,,Bernal Oeste,?,,"Radioaficionado que en 1924 estableció una comunicación con Nueva Zelanda, marcando así el récord mundial de distancia en más de 10.000 kilómetros.",Hombre,Relevada,
+305,Carlos Gardel,"Artistas, Musicos y Escritores",Bordo,,Bernal,?,,"El Zorzal criollo, máximo cantor de tango.",Hombre,Nueva (de OSM),
+306,Carlos Morel,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,"Pintor, pionero de la pintura argentina.",Hombre,Nueva (de OSM),
+307,Carlos Pellegrini,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,,Presidente de la Nación (1890-1892).,Hombre,Nueva (de OSM),
+308,Carlos Saavedra Lamas,Politico Nacional,Amarillo,,Quilmes Oeste,?,,"Canciller, primer Nobel de la Paz argentino (1936).",Hombre,Nueva (de OSM),
+309,Carriego,"Artistas, Musicos y Escritores",Bordo,,Don Bosco,?,,Poeta argentino.,Hombre,Relevada (en tu planilla/mapa: Evaristo Carriego),
+310,Castelli,Politico Nacional,Amarillo,12/10/1812,Quilmes,?,,Participó en forma activa en política frente a la crisis de la monarquía y en el movimiento juntista que se produjo en Buenos Aires en mayo de 1810.,Hombre,Relevada (en tu planilla/mapa: Juan Jose Castelli),
+311,Catamarca,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia del noroeste argentino.,,Relevada,
+312,Ceferino Namuncurá,Clerical,Gris Azulado,,Ezpeleta y Ezpeleta Oeste,?,,"Joven mapuche, beato.",Hombre,Nueva (de OSM),
+313,Cerrito,Batallas e Hitos Nacionales,Celeste,-,Bernal Oeste y Bernal,?,,"Batalla del Cerrito (1812), victoria patriota durante el sitio de Montevideo.",,Nueva (de OSM),
+314,Cevallos,Personalidades Internacionales,Rosa,,Quilmes,?,,Primer Virrey del Virreynato del Rio de la Plata,Hombre,Relevada (en tu planilla/mapa: Pedro de Cevallos),
+315,Chacabuco,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,"Primera batalla en Chile, en 1817, despues del cruce de los andes.",,Relevada,
+316,Chaco,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Provincia del noreste argentino.,,Relevada,
+317,Charcas,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Antigua audiencia del Alto Perú (actual Sucre, Bolivia).",,Nueva (de OSM),
+318,Chiclana,Profesiones Liberales,Azul,17/09/1826,Don Bosco y Bernal,?,,"Feliciano Antonio Chiclana fue un abogado, militar y jurisconsulto argentino",Hombre,Relevada (en tu planilla/mapa: Feliciano Antonio Chiclana),
+319,Chile,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,País limítrofe.,,Relevada,
+320,Chubut,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Provincia patagónica.,,Relevada,
+321,Cipreses,Flora y Fauna,Naranja,-,Quilmes,?,,Árbol.,,Nueva (de OSM),
+322,Ciudad de Santiago,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Santiago de Chile, capital de Chile.",,Nueva (de OSM),
+323,Ciudadela,Varios,Negro,,Don Bosco,?,,Sin datos todavía.,,Relevada,
+324,Colombia,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País sudamericano.,,Relevada,
+325,Colón,Personalidades Internacionales,Rosa,20/05/1506,Quilmes,?,,Fue el conquistador del continente americano,Hombre,Relevada (en tu planilla/mapa: Cristobal Colon),
+326,Comandante General Bombero Salvador Ingrassia,Personalidad Local,Turquesa,,Don Bosco,?,,"Jefe del cuerpo de Bomberos Voluntarios de Bernal, que modernizó.",Hombre,Cambió de nombre (en tu mapa: Calle 262),
+327,Combate de la Vuelta de Obligado,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,Combate de 1845 en el Paraná contra la flota anglo-francesa. Origen del Día de la Soberanía Nacional.,,Nueva (de OSM),
+328,Combate Naval de Quilmes,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,Combate del 30 de julio de 1826 frente a Quilmes: Brown enfrentó a la escuadra del Imperio del Brasil.,,Nueva (de OSM),
+329,Comodoro Rivadavia,Militares Nacionales,Marron,,Bernal Oeste,?,,"Martín Rivadavia, marino.",Hombre,Relevada,
+330,Concejal R. Morguen,Personalidad Local,Turquesa,,Quilmes,?,,"Roberto Morguen, concejal y candidato justicialista a intendente.",Hombre,Nueva (de OSM),
+331,Concepción,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Ciudad (hay homónimas en Tucumán, Chile y Paraguay).",,Relevada,
+332,Concordia,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad de Entre Ríos.,,Relevada,
+333,Condarco,Militares Nacionales,Marron,,"Quilmes, Ezpeleta Oeste y Quilmes Oeste",?,,"José Antonio Álvarez Condarco, ingeniero militar del Ejército de los Andes.",Hombre,Nueva (de OSM),
+334,Conesa,Militares Nacionales,Marron,3/09/1873,Quilmes,?,,"3 de septiembre de 1873 - fue General argentino, destacado en las guerras civiles y en la guerra del Paraguay.",Hombre,Relevada (en tu planilla/mapa: Emilio Conesa),
+335,Constancio Vigil,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste,?,,"Escritor y editor, fundador de la revista Billiken.",Hombre,Nueva (de OSM),
+336,Constitución,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,"Constitución Nacional, sancionada en 1853.",,Relevada (en tu planilla/mapa: Constitucion),
+337,Coronel De Pinedo,Personalidades Internacionales,Rosa,,Bernal Oeste y Bernal,?,"Francesco de Pinedo, aviador italiano (1927)","Francesco de Pinedo, aviador italiano que llegó a Buenos Aires en hidroavión en 1927.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+338,Coronel Pringles,Militares Nacionales,Marron,,Quilmes y Ezpeleta,?,,"Militar unitario que participò en varias guerras, inclusive las independentistas.",Hombre,Relevada (en tu planilla/mapa: Coronel Juan Pascual Pringles),
+339,Corrientes,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia del litoral argentino.,,Relevada,
+340,Cosme Argerich,Profesiones Liberales,Azul,,Ezpeleta Oeste,?,,Médico de la independencia.,Hombre,Nueva (de OSM),
+341,Costa Rica,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País centroamericano.,,Relevada,
+342,Costa Rica Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,Sin datos todavía.,,Relevada,
+343,Crámer,Militares Nacionales,Marron,7/11/1839,Don Bosco y Bernal,?,,"Fue un militar francés que participó en las guerras napoleónicas y más tarde se estableció en las Provincias Unidas del Río de la Plata, donde participó en la Guerra de independencia de la Argentina",Hombre,Relevada (en tu planilla/mapa: Ambrosio Cramer),
+344,Cuenca,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad del Ecuador.,,Relevada,
+345,Dante Hipólito Lugo,Personalidad Local,Turquesa,,Bernal Oeste,?,,"Quilmeño perteneciente al Comando de la Resistencia CL113, fue capturado y asesinado por la Dictadura Militar de Aramburu luego del fallido levantamiento militar de Juan Jose Valle del 9 de junio de 1956.",Hombre,Relevada,
+346,De la Cárcova,"Artistas, Musicos y Escritores",Bordo,,Don Bosco,?,,Fue pintor argentino. Una figura fundacional del arte nacional.,Hombre,"Relevada (en tu planilla/mapa: Ernesto de la Cárcova
+)",
+347,De Los Naranjos,Flora y Fauna,Naranja,-,Quilmes,?,,Árbol frutal.,,Nueva (de OSM),
+348,Deán Funes,Politico Nacional,Amarillo,,Bernal,?,,"Gregorio Funes, sacerdote y político de la independencia.",Hombre,Nueva (de OSM),
+349,Derqui,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Presidente de la Nacion entre 1860 y 1861,Hombre,Relevada (en tu planilla/mapa: Santiago Derqui),
+350,Doctor Arturo Umberto Illia,Politico Nacional,Amarillo,18/01/1983,Don Bosco,?,,Presidente de la Nación Argentina,Hombre,Relevada (en tu planilla/mapa: Arturo Umberto Illia),
+351,Doctor Carlos Auyero,Politico Nacional,Amarillo,,Quilmes Oeste,?,,"Diputado nacional (Democracia Cristiana, Frente Grande).",Hombre,Nueva (de OSM),
+352,Doctor Cosme Argerich,Profesiones Liberales,Azul,,Ezpeleta Oeste,?,,Médico de la independencia.,Hombre,Nueva (de OSM),
+353,Doctor Eduardo Oller,Personalidad Local,Turquesa,,Villa La Florida,?,,"Médico, gestor del hospital de Solano que lleva su nombre. Antes calle 876.",Hombre,Nueva (de OSM),
+354,Doctor Emilio Torre,Personalidad Local,Turquesa,,Quilmes Oeste,?,intendente,Intendente del municipio entre 1928 y 1930. Destituido por la primera dictadura militar.,Hombre,Relevada (en tu planilla/mapa: Emilio Torre),
+355,Doctor Fabián Cuelli,Personalidad Local,Turquesa,,Quilmes Oeste,?,,Médico de Quilmes en el siglo XIX.,Hombre,Nueva (de OSM),
+356,Doctor Fernández Villanueva,Personalidad Local,Turquesa,,Quilmes Oeste y Quilmes,?,,"Julio Fernández Villanueva, quilmeño nacido en 1858.",Hombre,Nueva (de OSM),
+357,Doctor Fernando Pozzo,Personalidad Local,Turquesa,,Bernal Oeste,?,,Medico radicado en Bernal que se desempeño como subdirector del Hospital de Quilmes.,Hombre,"Cambió de nombre (en tu mapa: Calle 163, Calle 163 bis, Fernando Isidoro Pozzo)",
+358,Doctor José Alcides Craviotto,Personalidad Local,Turquesa,,Quilmes Oeste,?,,El máximo historiador quilmeño.,Hombre,Nueva (de OSM),
+359,Doctor José Orihuela,Personalidad Local,Turquesa,,Quilmes Oeste,?,,Profesional quilmeño (sin más datos).,Hombre,Nueva (de OSM),
+360,Doctor Juan Carlos Pugliese,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,,Ministro de Economía y presidente de la Cámara de Diputados.,Hombre,Nueva (de OSM),
+361,Doctor Kenny,Personalidad Local,Turquesa,,Ezpeleta,?,,Sin datos todavía.,Hombre,Nueva (de OSM),
+362,Doctor Lázaro Bacaro,Personalidad Local,Turquesa,,Villa La Florida,?,,Médico de Solano. Antes calle 874.,Hombre,Nueva (de OSM),
+363,Doctor Luis Agote,Profesiones Liberales,Azul,,Quilmes Oeste y Quilmes,?,,"Médico, pionero de la transfusión de sangre.",Hombre,Nueva (de OSM),
+364,Doctor Pacífico Díaz,Personalidad Local,Turquesa,,Quilmes Oeste,?,,"Médico de Quilmes desde 1886, sucesor del doctor Edmundo Fierro.",Hombre,Nueva (de OSM),
+365,Doctor Ramón Carrillo,Profesiones Liberales,Azul,,Ezpeleta,?,,"Médico sanitarista, primer ministro de Salud de la Nación.",Hombre,Nueva (de OSM),
+366,Doctor Ricardo Balbín,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,,Líder de la Unión Cívica Radical.,Hombre,Nueva (de OSM),
+367,Doctor Salvador Mazza,Profesiones Liberales,Azul,,Quilmes Oeste,?,,Médico investigador del mal de Chagas.,Hombre,Nueva (de OSM),
+368,Don Bosco,Clerical,Gris Azulado,,Bernal y Bernal Oeste,?,,"Juan Bosco, sacerdote italiano fundador de los salesianos.",Hombre,Nueva (de OSM),
+369,Dorrego,Politico Nacional,Amarillo,,Bernal,?,,Fue un militar y político argentino que participó en la guerra de independencia y en las guerras civiles argentinas. Se destacó como uno de los principales referentes del naciente federalismo rioplatense y fue gobernador de la Provincia de Buenos Aires en dos oportunidades.,Hombre,Relevada (en tu planilla/mapa: Manuel Dorrego),
+370,Echeverría,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,"Esteban Echeverría, escritor romántico.",Hombre,Nueva (de OSM),
+371,Ecuador,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País sudamericano.,,Relevada,
+372,Ecuador Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Ecuador),
+373,Edmundo Fierro,Personalidad Local,Turquesa,,Don Bosco,?,,Médico patriarcal de Quilmes en el siglo XIX.,Hombre,Relevada,
+374,El Jacarandá,Flora y Fauna,Naranja,-,Don Bosco,?,,"Árbol de flores violetas, típico de Buenos Aires.",,Relevada,
+375,Emilio Zola,Personalidades Internacionales,Rosa,,Quilmes y Ezpeleta,?,,"Escritor francés, autor de 'Yo acuso'.",Hombre,Nueva (de OSM),
+376,Entre Ríos,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia del litoral argentino.,,Relevada,
+377,Esquel,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad del Chubut.,,Relevada,
+378,Esquiú,Clerical,Gris Azulado,,Quilmes y Quilmes Oeste,?,,"Fray Mamerto Esquiú, orador de la Constitución de 1853.",Hombre,Nueva (de OSM),
+379,Estanislao del Campo,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste y Ezpeleta Oeste,?,,"Poeta gauchesco, autor del 'Fausto'.",Hombre,Nueva (de OSM),
+380,Eva Perón,Politico Nacional,Amarillo,,Quilmes Oeste y San Francisco Solano,?,,"Primera dama, esposa del presidente Juan Domingo Peron.",Mujer,Relevada,
+381,Falucho,Militares Nacionales,Marron,,Bernal Oeste y Bernal,?,,"Antonio Ruiz, soldado negro del Ejército de los Andes.",Hombre,Relevada (en tu planilla/mapa: Falucho (Antonio Ruiz)),
+382,Florida,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,Localidad de Vicente López (o la península de EE.UU.).,,Relevada,
+383,Florida Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,Sin datos todavía.,,Relevada,
+384,Formosa,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Provincia del noreste argentino.,,Relevada,
+385,Franklin,Personalidades Internacionales,Rosa,,Quilmes,?,,"Benjamin Franklin, científico y prócer de EE.UU.",Hombre,Nueva (de OSM),
+386,Gaboto,Personalidades Internacionales,Rosa,,Quilmes,?,,"Sebastián Gaboto, navegante que exploró el Paraná (1527).",Hombre,Nueva (de OSM),
+387,Galileo Galilei,Personalidades Internacionales,Rosa,8/01/1642,Quilmes,?,,"Fue un astrónomo, ingeniero, matemático y físico italiano,",Hombre,Relevada,
+388,Garay,Personalidades Internacionales,Rosa,20/03/1583,Quilmes,?,,"Fue un hidalgo, explorador, conquistador y gobernante colonial español. Fundó la ciudad de Buenos Aires.",Hombre,Relevada (en tu planilla/mapa: Juan de Garay),
+389,Garibaldi,Personalidades Internacionales,Rosa,2/06/1882,Quilmes,?,,"Fue un militar, revolucionario, patriota, mercenario y político italiano.",Hombre,Relevada (en tu planilla/mapa: Giuseppe Garibaldi),
+390,Gelly y Obes,Militares Nacionales,Marron,,Quilmes,?,,"Juan Andrés Gelly y Obes, militar de la Guerra del Paraguay.",Hombre,Nueva (de OSM),
+391,General Acha,Militares Nacionales,Marron,,Quilmes Oeste y Ezpeleta Oeste,?,,"Mariano Acha, militar unitario.",Hombre,Nueva (de OSM),
+392,General Álvarez,Militares Nacionales,Marron,,Bernal Oeste,?,,"Fue un militar argentino, que participó en las guerras civiles, en las luchas contra los indígenas y en la Guerra del Paraguay",Hombre,Relevada (en tu planilla/mapa: General Donato Alvarez),
+393,General Guido,Militares Nacionales,Marron,14/09/1866,Quilmes,?,,"Fue un militar, diplomático y político argentino.",Hombre,Relevada (en tu planilla/mapa: Tomas Guido),
+394,General Levalle,Militares Nacionales,Marron,,Bernal Oeste,?,,"Nicolás Levalle, militar y ministro de Guerra.",Hombre,Relevada,
+395,General Manuel Savio,Militares Nacionales,Marron,,Quilmes Oeste,?,,Padre de la siderurgia argentina.,Hombre,Nueva (de OSM),
+396,General Paz,Militares Nacionales,Marron,,Quilmes y Ezpeleta,?,,"Militar Unitario que participò de varias guerras,  incuslive las independentistas",Hombre,Relevada (en tu planilla/mapa: General Jose Maria Paz),
+397,General Roca,Politico Nacional,Amarillo,19/10/1914,Don Bosco y Bernal Este,?,,Presidente,Hombre,Relevada (en tu planilla/mapa: Julio Argentino Roca),
+398,General Toribio de Luzuriaga,Militares Nacionales,Marron,,Quilmes Oeste,?,,Militar de la independencia.,Hombre,Nueva (de OSM),
+399,Gran Canaria,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes y Ezpeleta,?,,Isla del archipiélago canario (España).,,Nueva (de OSM),
+400,Güemes,Militares Nacionales,Marron,,Bernal,?,,"Martín Miguel de Güemes, defensor de la frontera norte.",Hombre,Nueva (de OSM),
+401,Guido Spano,"Artistas, Musicos y Escritores",Bordo,,Bernal,?,,Fue un destacado poeta romántico y periodista argentino.,Hombre,Relevada (en tu planilla/mapa: Carlos Guido y Spano),
+402,Guido y Spano,"Artistas, Musicos y Escritores",Bordo,,Bernal,?,,Fue un destacado poeta romántico y periodista argentino.,Hombre,Relevada (en tu planilla/mapa: Carlos Guido y Spano),
+403,Guillermo Marconi,Personalidades Internacionales,Rosa,,Quilmes Oeste y Ezpeleta Oeste,?,,"Inventor italiano, pionero de la radio.",Hombre,Nueva (de OSM),
+404,Gutiérrez,Profesiones Liberales,Azul,,Don Bosco,?,,"Fue médico, poeta, héroe de guerra, fundador del Hospital de Niños, y una figura muy respetada de ese universo cultural.",Hombre,Relevada (en tu planilla/mapa: Ricardo Gutierrez),
+405,Hipólito Yrigoyen,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Presidente de la Nacion,Hombre,Relevada,
+406,Homero Manzi,"Artistas, Musicos y Escritores",Bordo,,Villa La Florida,?,,Poeta y letrista de tango.,Hombre,Cambió de nombre (en tu mapa: Calle 882),
+407,Honduras,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,País centroamericano.,,Relevada,
+408,Hugo del Carril,"Artistas, Musicos y Escritores",Bordo,,San Francisco Solano y Villa La Florida,?,,"Cantor de tango, actor y director de cine.",Hombre,Cambió de nombre (en tu mapa: Calle 833),
+409,Humberto Primero,Personalidades Internacionales,Rosa,29/07/1900,Quilmes,?,,Rey de Italia,Hombre,Relevada (en tu planilla/mapa: Humberto Primo),
+410,Humberto Primo,Personalidades Internacionales,Rosa,29/07/1900,Quilmes,?,,Rey de Italia,Hombre,Relevada,
+411,Independencia,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,"Declaración de la Independencia, 9 de julio de 1816.",,Nueva (de OSM),
+412,Ingeniero Carpintero,Personalidad Local,Turquesa,,Ezpeleta,?,,Sin datos todavía.,Hombre,Nueva (de OSM),
+413,Ingeniero Enrique Butty,Profesiones Liberales,Azul,,Quilmes Oeste,?,,"Ingeniero, decano de la Facultad de Ingeniería de la UBA.",Hombre,Nueva (de OSM),
+414,Intendente José López,Personalidad Local,Turquesa,,Bernal,?,,Intendente de Quilmes.,Hombre,Nueva (de OSM),
+415,Intendente Pedro Oliveri,Personalidad Local,Turquesa,,Quilmes Oeste y Quilmes,?,,"Pedro Pablo Oliveri, intendente radical, de familia de arraigo local.",Hombre,Nueva (de OSM),
+416,Irala,Personalidades Internacionales,Rosa,,Quilmes Oeste y Quilmes,?,,"Domingo Martínez de Irala, conquistador y gobernador del Río de la Plata.",Hombre,Nueva (de OSM),
+417,Isla Martín García,"Geografia, Provincias y Ciudades",Verde Musgo,-,Villa La Florida,?,,"Isla del Río de la Plata, bajo jurisdicción bonaerense.",,Nueva (de OSM),
+418,Islas Malvinas,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Archipiélago del Atlántico Sur reclamado por la Argentina.,,Relevada,
+419,Ituzaingó,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,"Fue la batalla más importante de la Guerra del Brasil, y definió el destino político de la Banda Oriental (hoy Uruguay)",,Relevada,
+420,Joaquín Víctor González,Politico Nacional,Amarillo,,Quilmes Oeste y Ezpeleta Oeste,?,,"Político y escritor, fundador de la Universidad de La Plata.",Hombre,Nueva (de OSM),
+421,John Fitzgerald Kennedy,Personalidades Internacionales,Rosa,22/11/1963,Don Bosco,?,,Fue presidente de los Estados Unidos.,Hombre,Relevada,
+422,Jorge Bakmas,Personalidad Local,Turquesa,,Don Bosco,?,estudiante,Joven radical asesinado en una trifulca en la localidad de Bernal.,Hombre,Relevada,
+423,José Evaristo Uriburu,Politico Nacional,Amarillo,23/10/1914,Don Bosco y bernal,?,,"José Félix Evaristo Uriburu (Salta, 19 de noviembre de 1831-Buenos Aires, 23 de octubre de 1914) fue un abogado y político argentino, presidente de la Nación Argentina, entre el 23 de enero de 1895 y el 12 de octubre de 1898.",Hombre,Relevada (en tu planilla/mapa: José Félix Evaristo Uriburu),
+424,José Ingenieros,Profesiones Liberales,Azul,31/10/1925,Don Bosco,?,,Medico,Hombre,Relevada,
+425,José Luis Cabezas,Varios,Negro,,Bernal Oeste,?,fotografo,Reportero gráfico y fotógrafo argentino asesinado.,Hombre,Relevada,
+426,Juan B. Justo,Politico Nacional,Amarillo,08/01/1928,Don Bosco,?,,Fundador del Partido Socialista de Argentina,Hombre,Relevada (en tu planilla/mapa: Juan Bautista Justo),
+427,Juan Bautista Justo,Politico Nacional,Amarillo,08/01/1928,Don Bosco,?,,Fundador del Partido Socialista de Argentina,Hombre,Relevada,
+428,Juan Cruz Varela,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,Poeta y periodista de la época de Rivadavia.,Hombre,Nueva (de OSM),
+429,Juan José Valle,Militares Nacionales,Marron,,Bernal Oeste,?,,General que encabezo el levantamiento armado del 9 de junio de 1956 contra la Dictadura de Pedro Eugenio Aramburu.,Hombre,Relevada,
+430,Juan Manuel de Rosas,Politico Nacional,Amarillo,,Quilmes Oeste,?,,Gobernador de Buenos Aires y líder federal.,Hombre,Nueva (de OSM),
+431,Juan Vucetich,Profesiones Liberales,Azul,,Quilmes Oeste,?,,Creador del sistema de identificación por huellas dactilares.,Hombre,Nueva (de OSM),
+432,Juana de Ibarbourou,Personalidades Internacionales,Rosa,,Quilmes,?,,Poeta uruguaya.,Mujer,Nueva (de OSM),
+433,Juana Larrauri,Politico Nacional,Amarillo,,Ezpeleta,?,,Senadora peronista.,Mujer,Nueva (de OSM),
+434,Jujuy,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia del noroeste argentino.,,Relevada,
+435,Julio Cortázar,"Artistas, Musicos y Escritores",Bordo,12/02/1984,Don Bosco,?,,Fue un escritor y profesor argentino.,Hombre,Relevada,
+436,Juncal,Batallas e Hitos Nacionales,Celeste,-,Don Bosco,?,,"Batalla del 8 de febrero de 1827, que tuvo una victoria naval argentina durante la Guerra contra el Imperio del Brasil.",,Relevada,
+437,La Paz,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,Sede de gobierno de Bolivia.,,Relevada,
+438,La Rioja,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia del noroeste argentino.,,Relevada,
+439,La Rioja bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: La Rioja),
+440,Labardén,"Artistas, Musicos y Escritores",Bordo,,Bernal,?,,"Manuel José de Lavardén, poeta y dramaturgo colonial.",Hombre,Nueva (de OSM),
+441,Lafayette,Personalidades Internacionales,Rosa,,Quilmes,?,,"Marqués de La Fayette, militar francés de las revoluciones americana y francesa.",Hombre,Nueva (de OSM),
+442,Lafinur,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste y Quilmes,?,,"Juan Crisóstomo Lafinur, poeta y filósofo.",Hombre,Nueva (de OSM),
+443,Lago Aluminé,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,Lago del Neuquén.,,Relevada,
+444,Lago Carril Lauquen,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,Lago del norte neuquino.,,Relevada,
+445,Lago Lacar,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,"Lago del Neuquén, junto a San Martín de los Andes.",,Relevada,
+446,Lago Traful,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,Lago del Neuquén.,,Relevada,
+447,Lago Viedma,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,Lago glaciar de Santa Cruz.,,Relevada,
+448,Laprida,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,,"Narciso Laprida, presidente del Congreso de Tucumán.",Hombre,Nueva (de OSM),
+449,Larrea,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,"Juan Larrea, vocal de la Primera Junta.",Hombre,Nueva (de OSM),
+450,Las Casuarinas,Flora y Fauna,Naranja,-,Bernal Oeste,?,,Árbol.,,Nueva (de OSM),
+451,Las Heras,Militares Nacionales,Marron,,Quilmes,?,,"Juan Gregorio de Las Heras, militar del Ejército de los Andes.",Hombre,Nueva (de OSM),
+452,Las Malvinas,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Islas Malvinas.,,Nueva (de OSM),
+453,Lavalle,Militares Nacionales,Marron,,Don Bosco y Bernal,?,,"Juan Galo de Lavalle, general unitario.",Hombre,Relevada,
+454,Lavalleja,Personalidades Internacionales,Rosa,,Quilmes y Quilmes Oeste,?,,"Juan Antonio Lavalleja, líder de los Treinta y Tres Orientales.",Hombre,Nueva (de OSM),
+455,Leandro N. Alem,Politico Nacional,Amarillo,1/07/1896,Bernal Oeste y Bernal Este,?,,"Fue uno de los fundadores de la Unión Cívica y jefe político de la Revolución del Parque, contra el régimen fraudulento del Partido Autonomista Nacional. En 1891 lideró el sector de la Unión Cívica que fundó la Unión Cívica Radical.",Hombre,Relevada,
+456,Lebensohn,Politico Nacional,Amarillo,,Bernal,?,,"Moisés Lebensohn, dirigente radical.",Hombre,Nueva (de OSM),
+457,Libertad,Batallas e Hitos Nacionales,Celeste,-,Quilmes y Ezpeleta,?,,"Valor de la libertad, uno de los ideales de Mayo.",,Relevada,
+458,Lisandro de la Torre,Politico Nacional,Amarillo,,Quilmes Oeste y Ezpeleta Oeste,?,,"Político santafesino, fundador de la Democracia Progresista.",Hombre,Nueva (de OSM),
+459,Lituania,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,País báltico.,,Cambió de nombre (en tu mapa: Los Robles),
+460,Lomas de Zamora,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,,Partido vecino del conurbano sur.,,Relevada,
+461,Lope de Vega,Personalidades Internacionales,Rosa,,Ezpeleta Oeste,?,,Dramaturgo español del Siglo de Oro.,Hombre,Nueva (de OSM),
+462,Los Álamos,Flora y Fauna,Naranja,-,Quilmes,?,,Árbol.,,Nueva (de OSM),
+463,Los Andes,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Cordillera de los Andes.,,Relevada,
+464,Los Ciruelos,Flora y Fauna,Naranja,-,Quilmes,?,,Árbol frutal.,,Nueva (de OSM),
+465,Los Pinos,Flora y Fauna,Naranja,-,Don Bosco,?,,Árbol.,,Relevada,
+466,Los Robles,Flora y Fauna,Naranja,-,Don Bosco,?,,Árbol.,,Relevada,
+467,Los Tilos,Flora y Fauna,Naranja,-,Don Bosco,?,,Árbol.,,Relevada,
+468,Lugones,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,"Leopoldo Lugones, poeta.",Hombre,Nueva (de OSM),
+469,Luis Beltrán,Militares Nacionales,Marron,,Bernal,?,,"Fray Luis Beltrán, armero del Ejército de los Andes.",Hombre,Nueva (de OSM),
+470,Luis María Campos,Militares Nacionales,Marron,,Bernal Oeste,?,,"Fue un militar argentino que participó en las guerras civiles, la guerra del Paraguay y la campaña al Desierto, y fue además ministro de Guerra en tres oportunidades",Hombre,Relevada,
+471,Luis María Drago,Profesiones Liberales,Azul,,Bernal,?,,"Fue un abogado y político argentino, autor de la Doctrina Drago.Esta doctrina jurídica establece que ningún Estado extranjero puede utilizar la fuerza contra una nación americana con la finalidad de cobrar una deuda financiera.",Hombre,Relevada,
+472,Madame Curie,Personalidades Internacionales,Rosa,,Quilmes Oeste y Ezpeleta Oeste,?,,"Marie Curie, científica polaco-francesa, dos veces Nobel.",Mujer,Nueva (de OSM),
+473,Madre Teresa de Calcuta,Clerical,Gris Azulado,,San Francisco Solano y Quilmes Oeste,?,,"Religiosa albanesa, Nobel de la Paz, santa.",Mujer,Cambió de nombre (en tu mapa: Calle 898),
+474,Maipú,Batallas e Hitos Nacionales,Celeste,-,Don Bosco y Bernal,?,,Batalla de las tropas de San Martin en el actual territorio chileno. La victoria sello la independencia de ese pais.,,Relevada,
+475,Manuel Quintana,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Presidente de la Nación (1904-1906).,Hombre,Nueva (de OSM),
+476,Manzotti,Personalidad Local,Turquesa,,Don Bosco,?,bombero,Bombero fallecido en un incendio en cumplimiento del deber.,Hombre,Relevada (en tu planilla/mapa: Bombero Juan Carlos Manzotti),
+477,Mar del Plata,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad balnearia bonaerense.,,Relevada,
+478,Marcelo Torcuato de Alvear,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Presidente de la Nacion,Hombre,Relevada,
+479,María Raquel Adler,"Artistas, Musicos y Escritores",Bordo,28/07/1974,Don Bosco,?,,Fue una poetisa argentina.,Mujer,Relevada,
+480,Mariano Moreno,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Fue uno de los principales ideólogos e impulsores de la Revolución de Mayo. Tuvo una destacada actuación como Secretario de Guerra y Gobierno de la Primera Junta.,Hombre,Relevada,
+481,Mármol,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,"José Mármol, autor de 'Amalia'.",Hombre,Nueva (de OSM),
+482,Martín García,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes y Ezpeleta,?,,"Isla del Río de la Plata, bajo jurisdicción bonaerense.",,Cambió de nombre (en tu mapa: Rio de Janeiro),
+483,Mascagni,Personalidades Internacionales,Rosa,,Quilmes,?,,"Pietro Mascagni, compositor italiano.",Hombre,Nueva (de OSM),
+484,Matheu,Politico Nacional,Amarillo,8/03/1831,Quilmes,?,,"Fue nombrado vocal de la Primera Junta de Gobierno, y luego presidente de la Junta Grande, cuando Cornelio Saavedra viajó al norte",Hombre,Relevada (en tu planilla/mapa: Domingo Matheu),
+485,Matienzo,Militares Nacionales,Marron,28/05/1919,Quilmes,?,,Fue un militar y pionero de la aviación argentina.,Hombre,Relevada (en tu planilla/mapa: Benjamin Matienzo),
+486,Méjico,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,"México, país de Norteamérica.",,Relevada (en tu planilla/mapa: Mexico),
+487,Melvin Jones,Personalidades Internacionales,Rosa,,Quilmes,?,,Fundador del Club de Leones.,Hombre,Nueva (de OSM),
+488,Mendoza,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia de Cuyo.,,Relevada,
+489,Miguel Ángel Mauriño,Personalidad Local,Turquesa,,Bernal Oeste,?,,"Quilmeño perteneciente al Comando de la Resistencia CL113, fue capturado y asesinado por la Dictadura Militar de Aramburu luego del fallido levantamiento militar de Juan Jose Valle del 9 de junio de 1956.",Hombre,Relevada,
+490,Miguel Ángel Pascual,Personalidad Local,Turquesa,,San Francisco Solano,?,veterano de malvinas,Veterano local de la Guerra de Malvinas,Hombre,Relevada,
+491,Miguel Cané,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste y Ezpeleta Oeste,?,,"Escritor, autor de 'Juvenilia'.",Hombre,Nueva (de OSM),
+492,Miguel de Unamuno,Personalidades Internacionales,Rosa,,Quilmes Oeste y Ezpeleta Oeste,?,,Escritor y filósofo español.,Hombre,Nueva (de OSM),
+493,Misiones,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Provincia del noreste argentino.,,Relevada,
+494,Misiones bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Misiones),
+495,Monroe,Personalidades Internacionales,Rosa,,Quilmes y Ezpeleta,?,,"James Monroe, presidente de EE.UU. ('América para los americanos').",Hombre,Nueva (de OSM),
+496,Monseñor Esandi,Clerical,Gris Azulado,,Bernal Oeste,?,clerical,"Sacerdote salesiano, clave en la educación salesiana en Argentina. Dirigió la Casa de Formación en Bernal.",Hombre,Relevada (en tu planilla/mapa: José Nicolás Esandi),
+497,Monseñor Miguel de Andrea,Clerical,Gris Azulado,,Bernal Oeste,?,clerical,Fue un sacerdote católico argentino.,Hombre,Relevada (en tu planilla/mapa: Miguel de Andrea),
+498,Monseñor Piaggio,Clerical,Gris Azulado,,Don Bosco,?,clerical,"Sacerdote de Avellaneda, al que la calle termina homenajeando por error. Debio haber sido el musico local Celestino Piaggio.",Hombre,Relevada (en tu planilla/mapa: Monseñor Agustín Piaggio),
+499,Monteagudo,Politico Nacional,Amarillo,,Quilmes y Bernal,?,,"Bernardo de Monteagudo, revolucionario de la independencia.",Hombre,Nueva (de OSM),
+500,Montevideo,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Capital del Uruguay.,,Relevada,
+501,Moreno,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,Fue uno de los principales ideólogos e impulsores de la Revolución de Mayo. Tuvo una destacada actuación como Secretario de Guerra y Gobierno de la Primera Junta.,Hombre,Relevada (en tu planilla/mapa: Mariano Moreno),
+502,Mosconi,Militares Nacionales,Marron,,Bernal Oeste,?,,"Enrique Mosconi, primer director de YPF.",Hombre,Cambió de nombre (en tu mapa: Calle 164),
+503,Nahuel Huapí,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Lago de la Patagonia, junto a Bariloche.",,Relevada,
+504,Necochea,Militares Nacionales,Marron,,"Quilmes, Ezpeleta Oeste y Quilmes Oeste",?,,"Mariano Necochea, granadero.",Hombre,Nueva (de OSM),
+505,Neuquén,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Provincia patagónica.,,Relevada,
+506,Neuquén bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Neuquen),
+507,Nicaragua,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País centroamericano.,,Relevada,
+508,Nicolás Videla,Personalidad Local,Turquesa,,Quilmes,?,,Fue Intendente de Quilmes en el período 1887 - 1890. Fue además Ministro de Hacienda de la Provincia de Buenos Aires (1894 - 1898) y Presidente del Banco Provincia de Buenos Aires.,Hombre,Relevada,
+509,Nuestra Señora de Fátima,Clerical,Gris Azulado,,Don Bosco,?,clerical,Advocación de la Virgen.,,Relevada,
+510,Nuestra Señora de la Guardia,Clerical,Gris Azulado,,Bernal,?,,Advocación de la Virgen venerada por inmigrantes genoveses de Bernal.,,Nueva (de OSM),
+511,Obispo Monseñor Angelelli,Clerical,Gris Azulado,,Quilmes Oeste,?,,"Enrique Angelelli, obispo de La Rioja asesinado en 1976.",Hombre,Nueva (de OSM),
+512,Obligado,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,Combate de la Vuelta de Obligado (1845) contra la flota anglo-francesa.,,Nueva (de OSM),
+513,Oficial Primero Bombero José María Sánchez,Personalidad Local,Turquesa,,Quilmes Oeste y Quilmes,?,,Bombero voluntario.,Hombre,Nueva (de OSM),
+514,Olavarría,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes,?,,Ciudad del centro bonaerense.,,Relevada,
+515,Olegario Andrade,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste y Quilmes,?,,Poeta y periodista.,Hombre,Nueva (de OSM),
+516,Origone,Militares Nacionales,Marron,,Bernal Oeste,?,,Fue un aviador militar argentino que fue la primera víctima militar de la Aeronáutica Argentina,Hombre,Relevada (en tu planilla/mapa: Manuel Félix Origone),
+517,Ortiz de Ocampo,Militares Nacionales,Marron,15/11/1810,Quilmes,?,,"Fue un militar argentino, patriota de la Revolución de Mayo, primer general de la guerra de Independencia de la Argentina y gobernador de las provincias de Córdoba y de La Rioja.",Hombre,Relevada (en tu planilla/mapa: Francisco Ortiz de Ocampo),
+518,Otto Bemberg,Personalidad Local,Turquesa,,Quilmes,?,,Empresario fundador de la Cervecería Quilmes.,Hombre,Nueva (de OSM),
+519,Padre Bruzzone,Clerical,Gris Azulado,,Ezpeleta,?,,Sacerdote (sin más datos).,Hombre,Nueva (de OSM),
+520,Padre Carlos Mugica,Clerical,Gris Azulado,,"San Francisco Solano, Villa La Florida y Quilmes Oeste",?,,Sacerdote villero asesinado en 1974. Antes calle 839.,Hombre,Cambió de nombre (en tu mapa: Calle 839),
+521,Padre Mario Lovriha,Clerical,Gris Azulado,,San Francisco Solano y Villa La Florida,?,,Sacerdote de Solano. Antes calle 843.,Hombre,Cambió de nombre (en tu mapa: Calle 843),
+522,Palma de Mallorca,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Ciudad de las Islas Baleares (España).,,Nueva (de OSM),
+523,Pampa,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,"La Pampa, provincia argentina.",,Relevada,
+524,Panamá,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País centroamericano.,,Relevada,
+525,Paraguay,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País limítrofe.,,Relevada,
+526,Paraná,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal,?,,Río Paraná y capital de Entre Ríos.,,Nueva (de OSM),
+527,Pasaje 1,Numeradas,Violeta,-,Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+528,Pasaje 2,Numeradas,Violeta,-,Quilmes y Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+529,Pasaje 3,Numeradas,Violeta,-,Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+530,Pasaje 4,Numeradas,Violeta,-,Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+531,Pasaje 5,Numeradas,Violeta,-,Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+532,Pasaje 6,Numeradas,Violeta,-,Villa La Florida,?,,Calle numerada.,,Nueva (de OSM),
+533,Pasaje Alfredo L. Palacios,Politico Nacional,Amarillo,,Ezpeleta,?,,Primer diputado socialista de América.,Hombre,Nueva (de OSM),
+534,Pasaje Bermejo,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Bermejo),
+535,Pasaje Caseros,Batallas e Hitos Nacionales,Celeste,-,Don Bosco y Bernal,?,,"La Batalla de Caseros fue un enfrentamiento armado que tuvo lugar el 3 de febrero de 1852, en las afueras de la Ciudad de Buenos Aires, en lo que hoy es Lomas del Palomar",,Relevada (en tu planilla/mapa: Caseros),
+536,Pasaje Chubut,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Chubut),
+537,Pasaje Doctora Alicia Moreau de Justo,Politico Nacional,Amarillo,,Ezpeleta,?,,Médica y dirigente socialista feminista.,Mujer,Nueva (de OSM),
+538,Pasaje Eva Perón,Politico Nacional,Amarillo,,Quilmes Oeste y San Francisco Solano,?,,"Primera dama, esposa del presidente Juan Domingo Peron.",Mujer,Relevada (en tu planilla/mapa: Eva Peron),
+539,Pasaje Formosa,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Formosa),
+540,Pasaje Formosa Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Formosa),
+541,Pasaje Garay,Personalidades Internacionales,Rosa,20/03/1583,Quilmes,?,,"Fue un hidalgo, explorador, conquistador y gobernante colonial español. Fundó la ciudad de Buenos Aires.",Hombre,Relevada (en tu planilla/mapa: Juan de Garay),
+542,Pasaje General Belgrano,Militares Nacionales,Marron,,Bernal Oeste y Quilmes Oeste,?,,"Mas que militar, tuvo fuerte importancia durante la Revolucion de Mayo y las batallas sucesivas. Creador de la Bandera Nacional.",Hombre,Relevada (en tu planilla/mapa: General Manuel Belgrano),
+543,Pasaje Germán Abdala,Politico Nacional,Amarillo,,Ezpeleta,?,,Dirigente gremial (ATE) y diputado.,Hombre,Nueva (de OSM),
+544,Pasaje Misiones,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Misiones),
+545,Pasaje Monseñor Jorge Novak,Clerical,Gris Azulado,,Ezpeleta,?,,"Primer obispo de Quilmes, defensor de los derechos humanos.",Hombre,Nueva (de OSM),
+546,Pasaje Sarmiento,Politico Nacional,Amarillo,,Quilmes,?,,Presidente de la Nación Argentina entre 1868 y 1874.,Hombre,Relevada (en tu planilla/mapa: Domingo Faustino Sarmiento),
+547,Paso,Politico Nacional,Amarillo,10/09/1833,Quilmes,?,,"Fue secretario de la Primera Junta de Gobierno, miembro del Primer y Segundo Triunvirato, diputado del Congreso de Tucumán que declaró la Independencia de la Argentina en 1816 y redactor de las constituciones nacionales de 1819 y de 1826.",Hombre,Relevada (en tu planilla/mapa: Juan Jose Paso),
+548,Paso de los Libres,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Ciudad de Corrientes, frente a Uruguayana (Brasil).",,Nueva (de OSM),
+549,Pasteur,Personalidades Internacionales,Rosa,,Quilmes,?,,"Louis Pasteur, científico francés.",Hombre,Nueva (de OSM),
+550,Pavón,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,Batalla de Pavón (1861): Mitre venció a Urquiza y Buenos Aires se impuso a la Confederación.,,Nueva (de OSM),
+551,Perú,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste,?,,País sudamericano.,,Relevada,
+552,Pilcomayo,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Río limítrofe con el Paraguay.,,Relevada,
+553,Pilcomayo bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,,Relevada (en tu planilla/mapa: Pilcomayo),
+554,Pizzurno,Varios,Negro,,Bernal Oeste,?,,"Fue un educador argentino, que sentó los fundamentos del sistema nacional de educación primaria.",Hombre,Relevada (en tu planilla/mapa: Pablo Antonio Pizzurno),
+555,Posadas,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital de Misiones.,,Relevada,
+556,Presidente Alberto Fernández,Politico Nacional,Amarillo,,Ezpeleta,?,,Presidente de la Nación (2019-2023).,Hombre,Nueva (de OSM),
+557,Presidente Javier Gerardo Milei,Politico Nacional,Amarillo,,Ezpeleta,?,,Presidente de la Nación desde 2023.,Hombre,Nueva (de OSM),
+558,Presidente Juan Domingo Perón,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,,Presidente,Hombre,Relevada (en tu planilla/mapa: Juan Domingo Peron),
+559,Primera Junta,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,"Primer gobierno patrio, formado el 25 de mayo de 1810.",,Nueva (de OSM),
+560,Pringles,Militares Nacionales,Marron,,Quilmes y Ezpeleta,?,,"Militar unitario que participò en varias guerras, inclusive las independentistas.",Hombre,Relevada (en tu planilla/mapa: Coronel Juan Pascual Pringles),
+561,Puccini,Personalidades Internacionales,Rosa,,Quilmes,?,,"Giacomo Puccini, compositor de ópera italiano.",Hombre,Nueva (de OSM),
+562,Ramella,Personalidad Local,Turquesa,,Don Bosco,?,,"Fue vicepresidente de la municipalidad en 1904 y 1905, concejal en 1907 y presidente de la municipalidad en 1908.",Hombre,Relevada (en tu planilla/mapa: Jose Maria Ramella),
+563,Ramón Carrillo,Profesiones Liberales,Azul,,Ezpeleta,?,,"Médico sanitarista, primer ministro de Salud de la Nación.",Hombre,Nueva (de OSM),
+564,Ramos Mejía,Varios,Negro,5/05/1828,Don Bosco,?,Hacendado,Fue uno de los más importantes hacendados bonaerenses de principios del siglo XIX y un defensor de los aborígenes pampas.,Hombre,Relevada (en tu planilla/mapa: Francisco Ramos Mejia),
+565,Raúl Scalabrini Ortiz,"Artistas, Musicos y Escritores",Bordo,,Villa La Florida,?,,Escritor y pensador nacional (FORJA). Antes calle 881.,Hombre,Cambió de nombre (en tu mapa: Calle 881),
+566,Rawson,Profesiones Liberales,Azul,,Bernal,?,,"Fue un médico, higienista y político argentino. Es considerado el Padre de la Higiene Argentina.",Hombre,Relevada (en tu planilla/mapa: Guillermo Rawson),
+567,Reconquista,Batallas e Hitos Nacionales,Celeste,-,Bernal,?,,"Reconquista de Buenos Aires de 1806, tras la primera invasión inglesa.",,Nueva (de OSM),
+568,República de Cuba,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País del Caribe.,,Relevada,
+569,República de Cuba Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,Sin datos todavía.,,Relevada,
+570,República del Líbano,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,País de Medio Oriente.,,Relevada,
+571,Resistencia,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital del Chaco.,,Relevada,
+572,Ricardo Güiraldes,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,,Autor de 'Don Segundo Sombra'.,Hombre,Nueva (de OSM),
+573,Ricardo Rojas,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste y Ezpeleta Oeste,?,,Escritor e historiador de la literatura argentina.,Hombre,Nueva (de OSM),
+574,Río Atuel,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Río de Mendoza y La Pampa.,,Relevada,
+575,Río Colorado,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Río patagónico, límite norte de la Patagonia.",,Relevada,
+576,Río de Janeiro,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad del Brasil.,,Relevada,
+577,Río de la Plata,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Estuario que baña la costa de Quilmes.,,Nueva (de OSM),
+578,Río Desaguadero,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Río de Cuyo.,,Relevada,
+579,Río Gallegos,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital de Santa Cruz.,,Relevada,
+580,Río Grande,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Ciudad de Tierra del Fuego.,,Relevada,
+581,Río Gualeguay,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Río de Entre Ríos.,,Relevada,
+582,Río Iguazú,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Río de Misiones, de las Cataratas del Iguazú.",,Nueva (de OSM),
+583,Río Limay,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Río patagónico, entre Neuquén y Río Negro.",,Relevada,
+584,Río Negro,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia y río patagónicos.,,Relevada,
+585,Río Salado,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Río bonaerense.,,Relevada,
+586,Rivadavia,Politico Nacional,Amarillo,29/12/1877,Quilmes,?,,Fue primer jefe de Estado de las Provincias Unidas del Río de la Plata ejerciendo el cargo de presidente.,Hombre,Relevada (en tu planilla/mapa: Bernardino Rivadavia),
+587,Robles,Flora y Fauna,Naranja,-,Don Bosco,?,,Árbol.,,Relevada (en tu planilla/mapa: Los Robles),
+588,Rodolfo Ragucci,Clerical,Gris Azulado,,Bernal Oeste,?,clerical,"Sacerdote, docente y escritor local.",Hombre,Relevada,
+589,Rodríguez Peña,Politico Nacional,Amarillo,,Bernal Oeste y Bernal,?,,"Nicolás Rodríguez Peña, impulsor de la Revolución de Mayo.",Hombre,Nueva (de OSM),
+590,Roque Sáenz Peña,Politico Nacional,Amarillo,,"Quilmes, Bernal y Ezpeleta",?,,"Presidente, impulsor de la ley del voto secreto.",Hombre,Nueva (de OSM),
+591,Rosario,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Ciudad de Santa Fe, cuna de la bandera.",,Relevada,
+592,Rosas,Politico Nacional,Amarillo,,Quilmes,?,,"Juan Manuel de Rosas, gobernador de Buenos Aires.",Hombre,Nueva (de OSM),
+593,Rotonda General Manuel Belgrano,Militares Nacionales,Marron,,Bernal Oeste y Quilmes Oeste,?,,"Mas que militar, tuvo fuerte importancia durante la Revolucion de Mayo y las batallas sucesivas. Creador de la Bandera Nacional.",Hombre,Relevada (en tu planilla/mapa: General Manuel Belgrano),
+594,Saavedra,Politico Nacional,Amarillo,29/03/1829,Quilmes,?,,"Fue el presidente del primer gobierno de las Provincias Unidas del Río de la Plata, conocida como la Primera Junta y también de la Junta Grande.",Hombre,Relevada (en tu planilla/mapa: Cornelio Saavedra),
+595,Salta,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia del noroeste argentino.,,Relevada,
+596,San Juan,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia de Cuyo.,,Relevada,
+597,San Lorenzo,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,"Fue un combate en el que las fuerzas independentistas rioplatenses (argentinas) sorprendieron y vencieron a las tropas realistas de la Milicia urbana de Montevideo,",,Relevada,
+598,San Luis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,Provincia de Cuyo.,,Relevada,
+599,San Martín,Militares Nacionales,Marron,,Quilmes,?,,"Libertador de Argentina, Chile y Peru",Hombre,Relevada (en tu planilla/mapa: Jose de San Martin),
+600,San Mauro Castelverde,Clerical,Gris Azulado,-,Quilmes Oeste y Quilmes,?,,Santo italiano de la Edad Media.,,Nueva (de OSM),
+601,San Patricio,Clerical,Gris Azulado,,Quilmes,?,,Patrono de Irlanda.,Hombre,Nueva (de OSM),
+602,Santa Cruz,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia patagónica.,,Relevada,
+603,Santa Fe,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia,,Relevada,
+604,Santa Rosa,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital de La Pampa.,,Relevada,
+605,Santiago del Estero,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,"Provincia del norte argentino, la más antigua del país.",,Relevada,
+606,Sargento Cabral,Militares Nacionales,Marron,,Don Bosco y Bernal,?,,"Juan Bautista Cabral, soldado que salvó a San Martín en San Lorenzo.",Hombre,Relevada,
+607,Sarmiento,Politico Nacional,Amarillo,,Quilmes,?,,Presidente de la Nación Argentina entre 1868 y 1874.,Hombre,Relevada (en tu planilla/mapa: Domingo Faustino Sarmiento),
+608,Sarratea,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,,"Manuel de Sarratea, miembro del Primer Triunvirato.",Hombre,Nueva (de OSM),
+609,Sir Alexander Fleming,Personalidades Internacionales,Rosa,,Bernal Oeste,?,,"Fue un médico y científico británico, célebre por descubrir la penicilina en 1928",Hombre,Relevada,
+610,Solís,Personalidades Internacionales,Rosa,20/01/1516,Quilmes,?,,"Fue un navegante y explorador castellano, considerado como el primer europeo en llegar al Río de la Plata.",Hombre,Relevada (en tu planilla/mapa: Juan Diaz de Solis),
+611,Suboficial Roque Cisterna,Personalidad Local,Turquesa,,Bernal Oeste,?,,Soldado conscripto asesinado en el asalto al batallón de Monte Chinglo en 1975.,Hombre,"Relevada (en tu planilla/mapa: Roque Cisterna
+)",
+612,Sucre,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Capital constitucional de Bolivia.,,Relevada,
+613,Sud América,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes,?,,Continente sudamericano.,,Nueva (de OSM),
+614,Suipacha,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,,"Batalla en la que  en que el Ejército Auxiliar, enviado por la Primera Junta de Gobierno, triunfó por primera vez ante el Ejército Real del Perú, enviado por el Virreinato del Perú.",,Relevada,
+615,Tacuarí,Batallas e Hitos Nacionales,Celeste,-,Don Bosco,?,,Batalla librada por Manuel Belgrano en Paraguay en 1811.,,Relevada,
+616,Tierra del Fuego,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Provincia del extremo sur.,,Relevada,
+617,Timoteo Gordillo,Varios,Negro,,Don Bosco,?,,Empresario de transportes del siglo XIX.,Hombre,Relevada,
+618,Tomás Espora,Militares Nacionales,Marron,,Bernal,?,,"Marino, héroe de la guerra con el Brasil.",Hombre,Nueva (de OSM),
+619,Tres Arroyos,"Geografia, Provincias y Ciudades",Verde Musgo,-,Fuera del partido,?,,Ciudad del sur bonaerense.,,Nueva (de OSM),
+620,Tucumán,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste,?,,"Provincia del noroeste, donde se declaró la Independencia.",,Relevada,
+621,Tupungato,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta,?,,Volcán y departamento de Mendoza.,,Relevada,
+622,Urquiza,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,,"Justo José de Urquiza, primer presidente constitucional.",Hombre,Nueva (de OSM),
+623,Uruguay,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País limítrofe.,,Relevada,
+624,Uspallata,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal,?,,"Valle de Mendoza, camino a Chile.",,Nueva (de OSM),
+625,Venezuela,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País sudamericano.,,Relevada,
+626,Venezuela Bis,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,Sin datos todavía.,,Relevada,
+627,Vicente Franco,"Artistas, Musicos y Escritores",Bordo,,San Francisco Solano,?,,"Cantor y guitarrista chamamecero argentino, líder de ""Vicente Franco y sus Criollos"".",Hombre,Relevada (en tu planilla/mapa: Vicente Franco),
+628,Vicente Franco (842),"Artistas, Musicos y Escritores",Bordo,,San Francisco Solano y Villa La Florida,?,,"Cantor y guitarrista chamamecero argentino, líder de ""Vicente Franco y sus Criollos"".",Hombre,Relevada (en tu planilla/mapa: Vicente Franco),
+629,Victoria,Varios,Negro,,Don Bosco,?,,Sin datos todavía.,,Relevada,
+630,Victorica,Politico Nacional,Amarillo,,Bernal Oeste,?,,"Abogado y militar. Se desempeñó como diputado nacional, senador nacional, ministro de Guerra y Marina bajo las presidencias de Santiago Derqui y Julio A. Roca.",Hombre,Relevada (en tu planilla/mapa: Benjamin Victorica),
+631,Viejo Bueno,Militares Nacionales,Marron,,Bernal Oeste,?,,Sin datos todavía.,Hombre,Relevada (en tu planilla/mapa: Domingo Viejobueno),
+632,Vieytes,Politico Nacional,Amarillo,,Bernal,?,,"Hipólito Vieytes, revolucionario de Mayo.",Hombre,Nueva (de OSM),
+633,Yapeyú,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco y Bernal,?,,Lugar de nacimiento del General Jose de San Martin.,,Relevada,
+634,Antonio Caviglia,Profesiones Liberales,Azul,01/08/1975,Bernal Oeste y Don Bosco,?,,Sin datos todavía.,Hombre,"Relevada, sin calle con ese nombre en OSM",No la encontré en OSM: puede llamarse distinto hoy o no tener nombre cargado
+635,El Condor,Flora y Fauna,Naranja,-,San Francisco Solano,?,,Ave de los Andes.,,"Relevada, sin calle con ese nombre en OSM",No la encontré en OSM: puede llamarse distinto hoy o no tener nombre cargado
+636,El Gringo,Varios,Negro,,San Francisco Solano,?,???,Sin datos todavía.,,"Relevada, sin calle con ese nombre en OSM",No la encontré en OSM: puede llamarse distinto hoy o no tener nombre cargado
+637,El Salvador,"Geografia, Provincias y Ciudades",Verde Musgo,-,Ezpeleta Oeste y Ezpeleta,?,,País centroamericano.,,"Relevada, sin calle con ese nombre en OSM",No la encontré en OSM: puede llamarse distinto hoy o no tener nombre cargado
+638,Francisco Lynch,Militares Nacionales,Marron,4/05/1840,Bernal Oeste,?,,"Fue un militar argentino que participó en la Guerra de Independencia, en las guerras civiles y en la Guerra del Brasil.",Hombre,"Relevada, sin calle con ese nombre en OSM",No la encontré en OSM: puede llamarse distinto hoy o no tener nombre cargado
+639,20 de Julio,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Batallas e Hitos Nacionales
+640,6 de Enero,,,,Bernal Oeste,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Batallas e Hitos Nacionales
+641,Abraham Mendelevich,Personalidad Local,Turquesa,,San Francisco Solano y Villa La Florida,?,"pionero de Solano, periodista y enfermero","Pionero de Solano, periodista y enfermero. Antes calle 835.",Hombre,Cambió de nombre (en tu mapa: Calle 835),Completada con El Quilmero: https://elquilmero.blogspot.com/2011/11/luis-gerardo-barbieri-identidad-de-una.html
+642,Agustín Ramírez,Personalidad Local,Turquesa,05/06/1988,San Francisco Solano,?,"militante de Comunidades Eclesiales de Base, asesinado en Solano","Joven militante de las Comunidades Eclesiales de Base, asesinado en Solano en 1988. Antes calle 891.",Hombre,Cambió de nombre (en tu mapa: Calle 891),Completada con El Quilmero: https://elquilmero.blogspot.com/2020/01/asentamiento-agustin-ramirez-10101995.html
+643,Aimé Tschiffely,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste,?,escritor y docente suizo-argentino (Gato y Mancha),"Docente y escritor suizo que unió Buenos Aires con Nueva York a caballo, con Gato y Mancha.",Hombre,Nueva (de OSM),Completada con El Quilmero: 
+644,Alcibiades Rodríguez,Personalidad Local,Turquesa,,Quilmes,?,"fotógrafo, patriarca de la fotografía en Quilmes",El patriarca de la fotografía en Quilmes.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/10/alcibiades-rodriguez-colaboraciones.html
+645,Alonso,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+646,Ana María Estevao,Personalidad Local,Turquesa,20/10/1975,Villa La Florida y San Francisco Solano,?,periodista desaparecida,Joven periodista desaparecida en 1975. Antes calle 856.,Mujer,Cambió de nombre (en tu mapa: Calle 856),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/10/ana-maria-estevao-40-anos-de-su.html
+647,Anchoris,,,,Bernal Oeste,?,,Sin datos todavía.,,Nueva (de OSM),"Dudosa. Sugerencia: Geografia, Provincias y Ciudades"
+648,Andrés Baranda,Personalidad Local,Turquesa,,Quilmes y Ezpeleta,?,juez de paz y terrateniente (s. XIX),Terrateniente y juez de paz de Quilmes a mediados del siglo XIX.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2010/09/administracion-municipal-del-partido-de.html
+649,Antonio L. Zolezzi,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+650,Arturo Jauretche,"Artistas, Musicos y Escritores",Bordo,,Villa La Florida y Quilmes Oeste,?,escritor y pensador (FORJA),"Escritor y pensador nacional, fundador de FORJA.",Hombre,Cambió de nombre (en tu mapa: Calle 880),Completada por mí (sin fuente en el blog): revisar si querés
+651,Avelina Huisi de Seguí,Personalidad Local,Turquesa,,Quilmes Oeste,?,fundadora de la Federación de Cooperadoras Escolares,Fundadora de la Federación de Cooperadoras Escolares.,Mujer,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/03/avelina-huisi-de-segui-8-de-marzo-dia.html
+652,Avellaneda,Politico Nacional,Amarillo,,Bernal y Bernal Oeste,?,"Nicolás Avellaneda, presidente","Nicolás Avellaneda, presidente de la Nación (1874-1880).",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+653,Avenida Calchaquí,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste y Ezpeleta Oeste,?,"valles calchaquíes, origen de los quilmes","Valles Calchaquíes, de donde fueron desterrados los indios quilmes en 1666.",,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/07/el-dramaturgo-leopoldo-russo-sufrio-un.html
+654,Avenida Centenario,Batallas e Hitos Nacionales,Celeste,-,Ezpeleta y Quilmes,?,Centenario de 1910,Centenario de la Revolución de Mayo (1910).,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+655,Avenida Diego Armando Maradona,Varios,Negro,,San Francisco Solano y Villa La Florida,?,futbolista,"Futbolista, campeón del mundo en 1986.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+656,Avenida Isidoro Iriarte,Personalidad Local,Turquesa,,Quilmes,?,"médico cirujano, da nombre al hospital","Médico cirujano, cofundador del hospital de Quilmes que lleva su nombre.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2018/04/a-8-anos-del-centenario-de-villa-la.html
+657,Avenida José Andrés López,Personalidad Local,Turquesa,,San Francisco Solano y Villa La Florida,?,intendente 1904-1905,Intendente de Quilmes (1904-1905). Antes calle 844.,Hombre,"Cambió de nombre (en tu mapa: Avenida 844, Calle 844)",Completada con El Quilmero: https://elquilmero.blogspot.com/2018/04/a-8-anos-del-centenario-de-villa-la.html
+658,Avenida Los Quilmes,Varios,Negro,,Bernal Oeste,?,pueblo originario,Pueblo originario de los Valles Calchaquíes trasladado a esta zona en 1666.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2020/07/el-prof-jorge-levoratti-y-su-libro-la.html
+659,Avenida Martín Rodríguez,Politico Nacional,Amarillo,,Quilmes,?,gobernador de Buenos Aires,Militar y gobernador de Buenos Aires.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2010/02/barrios-de-quilmes-1950.html
+660,Avenida Oscar Smith,Varios,Negro,,"Quilmes, Quilmes Oeste, Ezpeleta Oeste y Ezpeleta",?,sindicalista de Luz y Fuerza desaparecido,Dirigente de Luz y Fuerza desaparecido en 1977.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/07/crisoldinie-y-el-terrorismo-de-estado-2.html
+661,Avenida Otamendi,Personalidad Local,Turquesa,,Quilmes,?,familia Otamendi; la calle Otamendi homenajea al Ing. Eduardo Otamendi,"Familia Otamendi, de arraigo en Quilmes.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2021/02/el-arroyo-del-medio-el-banado-la-ribera.html
+662,Avenida Profesor Doroteo Yoldi,Personalidad Local,Turquesa,,Quilmes,?,"educador, fundador del primer colegio secundario de Quilmes","Educador, fundador del primer colegio secundario de Quilmes.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/07/pedro-felix-rotelo-un-fotografo-de-las.html
+663,Avenida Rodolfo López,,,,Quilmes Oeste y Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),Sin identificar en El Quilmero (hay más de una persona posible)
+664,Avenida Triunvirato,Batallas e Hitos Nacionales,Celeste,-,Quilmes Oeste y Quilmes,?,Primer Triunvirato,"Primer Triunvirato (1811-1812), gobierno que sucedió a la Junta Grande.",,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+665,Avenida Vicente López,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,"Vicente López y Planes, presidente y autor del Himno","Vicente López y Planes, autor de la letra del Himno Nacional.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+666,Bajo Vias Don Bosco,Varios,Negro,,Don Bosco,?,nombre descriptivo (paso bajo vías),Paso bajo las vías.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+667,Bajo Vías Ezpeleta,Varios,Negro,,Ezpeleta,?,nombre descriptivo (paso bajo vías),Paso bajo las vías.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+668,Barreiro,Personalidad Local,Turquesa,,Bernal,?,"Paulino Barreiro, juez de paz","Paulino Barreiro, juez de paz de Quilmes en tiempos de Rosas.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2011/12/el-caso-del-juez-de-paz-paulino-barreiro.html
+669,Barrio Andino,Varios,Negro,,Ezpeleta,?,nombre descriptivo (barrio),Barrio.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+670,Beruti,Politico Nacional,Amarillo,,Quilmes Oeste y Quilmes,?,"Antonio Beruti, Revolución de Mayo","Antonio Beruti, protagonista de la Semana de Mayo.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+671,Blandengues,Militares Nacionales,Marron,,Bernal,?,cuerpo de caballería colonial,Cuerpo de caballería colonial.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/11/meincke-versus-blandengues-colaboracion.html
+672,Boedo,Politico Nacional,Amarillo,,Bernal Oeste y Bernal,?,"Mariano Boedo, congresal de 1816","Mariano Boedo, congresal de 1816.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+673,"Boulevard Omar ""Indio"" Gómez",Personalidad Local,Turquesa,,Quilmes,?,futbolista de Quilmes AC (verificar),Futbolista del Quilmes Atlético Club (a verificar).,Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+674,Bradley,Personalidad Local,Turquesa,,Quilmes Oeste,?,"Eduardo Bradley, aeronauta pionero, quilmeño por adopción","Eduardo Bradley, aeronauta pionero y quilmeño por adopción.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/09/muestra-historica-fotografica-vistas-de.html
+675,Cabo Segundo Claudio Omar Tortosa,Personalidad Local,Turquesa,,San Francisco Solano y Villa La Florida,?,caído en Malvinas,Soldado quilmeño caído en la Guerra de Malvinas (1982). Antes calle 853.,Hombre,Cambió de nombre (en tu mapa: Calle 853),Completada con El Quilmero: https://elquilmero.blogspot.com/2022/05/el-recinto-del-hcd-quilmeno-se-llamara.html
+676,Cabo Segundo José Luis García,Personalidad Local,Turquesa,,San Francisco Solano,?,caído en Malvinas,Soldado quilmeño caído en la Guerra de Malvinas (1982). Antes calle 837.,Hombre,Cambió de nombre (en tu mapa: Calle 837),Completada con El Quilmero: https://elquilmero.blogspot.com/2022/05/el-recinto-del-hcd-quilmeno-se-llamara.html
+677,Calle 7 de Agosto,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Batallas e Hitos Nacionales
+678,Camila O'Gorman,Varios,Negro,,Bernal,?,,Joven fusilada en 1848 por orden de Rosas.,Mujer,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+679,Capdevila,,,,Quilmes Oeste,?,,Sin datos todavía.,,Nueva (de OSM),Sin identificar en El Quilmero (hay más de una persona posible)
+680,Carlos Alberto Baglietto,Personalidad Local,Turquesa,,San Francisco Solano,?,militante asesinado,Militante asesinado en 1975.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2022/03/memoria-veredad-y-justicia.html
+681,Carlos Bavera,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+682,Casinelli,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+683,Castro Barros,Politico Nacional,Amarillo,,Bernal,?,"Pedro Ignacio de Castro Barros, congresal de 1816","Pedro Ignacio de Castro Barros, sacerdote y congresal de 1816.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+684,Comandante Carbonari,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Militares Nacionales
+685,Comandante Franco,Personalidades Internacionales,Rosa,,Bernal Oeste y Bernal,?,"Ramón Franco, aviador del Plus Ultra (1926)","Ramón Franco, aviador español del vuelo del Plus Ultra a Buenos Aires (1926).",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+686,Condestable Oytaben,Militares Nacionales,Marron,,Quilmes,?,suboficial de marina (no identificado),Suboficial de marina (sin más datos).,Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+687,Contramaestre Gaudi,Militares Nacionales,Marron,,Quilmes,?,suboficial de marina (no identificado),Suboficial de marina (sin más datos).,Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+688,Cornelia Esther Ferreyra Godoy,Personalidad Local,Turquesa,,Quilmes Oeste,?,desaparecida,Desaparecida durante la última dictadura. Antes calle 886.,Mujer,Cambió de nombre (en tu mapa: Calle 886),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+689,D' Alessandro,,,,Villa La Florida,?,,Sin datos todavía.,,Cambió de nombre (en tu mapa: Calle 883),No identifiqué a quién o qué refiere el nombre
+690,Dante Guede,Personalidad Local,Turquesa,07/10/1976,Villa La Florida,?,desaparecido,"Técnico del Observatorio del CONICET, desaparecido en 1976. Antes calle 872.",Hombre,Cambió de nombre (en tu mapa: Calle 872),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+691,Dante Hipólito Balcanera,,,,Bernal Oeste,?,,Sin datos todavía.,,Cambió de nombre (en tu mapa: Calle 169 bis),No identifiqué a quién o qué refiere el nombre
+692,De La Merced,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Varios
+693,Diagonal Oeste,Varios,Negro,,Quilmes,?,nombre descriptivo,Calle diagonal.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+694,Domingo Sobral,Militares Nacionales,Marron,,Ezpeleta,?,"alférez, expedición antártica 1901-1903","Alférez, primer argentino en invernar en la Antártida (1901-1903).",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+695,Dreyfus,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Personalidades Internacionales
+696,Eduardo Garriz,Personalidad Local,Turquesa,,San Francisco Solano y Villa La Florida,?,impulsor de la Biblioteca Popular J. B. Alberdi de Solano,"Médico, impulsor de la Biblioteca Popular J. B. Alberdi de Solano. Antes calle 855.",Hombre,Cambió de nombre (en tu mapa: Calle 855),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/09/la-biblioteca-popular-juan-bautista.html
+697,El Pato,"Geografia, Provincias y Ciudades",Verde Musgo,-,Fuera del partido,?,"Arroyo del Pato, topónimo","Arroyo del Pato, antiguo topónimo de la zona.",,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2019/09/mas-alla-de-lo-pintoresco-en-una.html
+698,Elena Viale,,,,Quilmes Oeste,?,,Sin datos todavía.,Mujer,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+699,Enrique Minuto,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+700,Enrique Rolón,Personalidad Local,Turquesa,18/02/1977,Quilmes Oeste,?,desaparecido,"Trabajador de Correos y militante del barrio La Cañada, desaparecido en 1977.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+701,"Enrique Ronconi ""Héroe de Malvinas""",Personalidad Local,Turquesa,,Ezpeleta,?,caído en Malvinas,Soldado quilmeño caído en la Guerra de Malvinas (1982).,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2022/05/el-recinto-del-hcd-quilmeno-se-llamara.html
+702,"Ernesto ""Che"" Guevara",Personalidades Internacionales,Rosa,,Quilmes Oeste,?,,Médico rosarino y líder de la Revolución Cubana.,Hombre,Cambió de nombre (en tu mapa: Calle 819),Completada por mí (sin fuente en el blog): revisar si querés
+703,Esmeralda,Varios,Negro,,Quilmes Oeste,?,antigua villa Esmeralda de Quilmes Oeste,Antigua Villa Esmeralda de Quilmes Oeste.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/01/todo-es-historia-agosto-2014-la-primera.html
+704,Estrada,,,,Bernal,?,,Sin datos todavía.,,Nueva (de OSM),Sin identificar en El Quilmero (hay más de una persona posible)
+705,Evaristo Iglesias,Personalidad Local,Turquesa,,Ezpeleta,?,educador,Educador de una dinastía de docentes quilmeños.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/09/los-iglesias-dinastia-de-educadores-y.html
+706,Felipe Amoedo,Personalidad Local,Turquesa,,Quilmes Oeste y Quilmes,?,"vecino, dirigente alsinista (s. XIX)",Vecino de Quilmes y dirigente alsinista del siglo XIX.,Hombre,Nueva (de OSM),Completada con El Quilmero: 
+707,Felipe Foncelli,,,,Villa La Florida,?,,Sin datos todavía.,,Cambió de nombre (en tu mapa: Calle 884),No identifiqué a quién o qué refiere el nombre
+708,Felipe Vallese,Varios,Negro,23/08/1962,Villa La Florida y Quilmes Oeste,?,militante sindical desaparecido,"Obrero metalúrgico, primer desaparecido político (1962). Antes calle 878.",Hombre,Cambió de nombre (en tu mapa: Calle 878),Completada por mí (sin fuente en el blog): revisar si querés
+709,Fragata 25 de Mayo,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,combate naval de Quilmes (1826),Buque insignia de Brown en los combates navales frente a Quilmes durante la guerra con el Brasil.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2014/06/quilmes-en-la-guerra-con-el-brasil-1825.html
+710,French,Politico Nacional,Amarillo,,Quilmes,?,"Domingo French, Revolución de Mayo","Domingo French, protagonista de la Semana de Mayo.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+711,General Smith,,,,Bernal Oeste,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Militares Nacionales
+712,Generosa Frattasi,Personalidad Local,Turquesa,14/04/1977,San Francisco Solano y Villa La Florida,?,enfermera desaparecida,"Enfermera del Hospital Iriarte, desaparecida y asesinada en 1977. Antes calle 850.",Mujer,Cambió de nombre (en tu mapa: Calle 850),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/03/mujeres-de-quilmes-8-de-marzo-dia-de-la.html
+713,Gloria,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+714,Goleta Río de la Plata,Batallas e Hitos Nacionales,Celeste,-,Quilmes,?,combate naval de Quilmes (1826),Goleta al mando de Leonardo Rosales en los combates frente a Quilmes (guerra con el Brasil).,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2014/06/quilmes-en-la-guerra-con-el-brasil-1825.html
+715,González,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+716,Gorrindo,"Artistas, Musicos y Escritores",Bordo,,Quilmes,?,"Francisco Gorrindo, letrista de tango quilmeño","Francisco Gorrindo, letrista de tango quilmeño.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/01/francisco-gorrindo-esquina-tango.html
+717,"Graciela Alicia Hernández ""La Negrita""",Personalidad Local,Turquesa,,Quilmes Oeste,?,militante desaparecida,Militante desaparecida durante la última dictadura. Antes calle 815.,Mujer,Cambió de nombre (en tu mapa: Calle 815),Completada con El Quilmero: https://elquilmero.blogspot.com/2022/03/memoria-veredad-y-justicia.html
+718,Héctor Alberto Pérez,Personalidad Local,Turquesa,,Quilmes Oeste,?,obrero desaparecido,"Obrero de la firma SAIAR, desaparecido en 1976.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+719,Horacio Luis Rapaport,Personalidad Local,Turquesa,28/01/1977,Quilmes Oeste,?,militante asesinado en la Unidad 9,Militante asesinado en 1977 en la Unidad 9 de La Plata. Antes calle 822.,Hombre,Cambió de nombre (en tu mapa: Calle 822),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+720,Húsares,Militares Nacionales,Marron,,"Quilmes, Ezpeleta Oeste y Quilmes Oeste",?,regimiento de Húsares,Regimiento de Húsares.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/08/el-tercer-escuadron-de-husares-husares.html
+721,Ipiranga,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal,?,,Arroyo de San Pablo donde se proclamó la independencia del Brasil (1822).,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+722,Isabel Pallamay,Personalidad Local,Turquesa,,Quilmes Oeste,?,cacica quilme,"Cacica de los quilmes, que recuperó por vía judicial el título que le habían usurpado.",Mujer,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/08/isabel-pallamay-14-de-setiembre-una.html
+723,Jorge Newbery,Profesiones Liberales,Azul,,Quilmes,?,ingeniero y aviador,Ingeniero y pionero de la aviación argentina.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2019/06/monolito-jorge-newbery-1977.html
+724,José Antonio Blanco,Personalidad Local,Turquesa,,Quilmes Oeste,?,"periodista, fundador del diario El Sol","Periodista, fundador del diario El Sol de Quilmes.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/11/jose-antonio-blanco-85-anos-de-el-sol.html
+725,José Barton,,,,Quilmes Oeste,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+726,Juan Manuel Delgado,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+727,Juan Ramón Fernández,Personalidad Local,Turquesa,06/08/1977,Bernal Oeste,?,desaparecido,"Joven del barrio La Cañada, desaparecido en 1977.",Hombre,Cambió de nombre (en tu mapa: Calle 163 bis),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+728,Julio Casares,,,,Ezpeleta Oeste y Quilmes Oeste,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+729,Julio Rivello,Personalidad Local,Turquesa,,Bernal,?,vecino muerto en una manifestación en Bernal,Vecino muerto tras ser herido en una manifestación en Bernal.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2009/09/bernal-lo-largo-de-los-anos.html
+730,Justo José Illanes,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+731,La Guarda,Personalidad Local,Turquesa,,Ezpeleta,?,"Lagouarde, propietario de las tierras del cementerio","Por Lagouarde, propietario que vendió las tierras del cementerio. No refiere a la Virgen de la Guardia.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2011/11/recorrido-final-la-historia-en-el.html
+732,Las Piedritas,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,topónimo de Solano,Nombre popular de una zona y una escuela de Solano.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/06/escuela-n-45-provincia-de-buenos-aires.html
+733,Laura Estela Carlotto,Varios,Negro,25/08/1978,San Francisco Solano,?,"desaparecida, hija de Estela de Carlotto","Hija de Estela de Carlotto, desaparecida y asesinada en 1978. Antes calle 864.",Mujer,Cambió de nombre (en tu mapa: Calle 864),Completada por mí (sin fuente en el blog): revisar si querés
+734,Liniers,Militares Nacionales,Marron,,Bernal Oeste y Bernal,?,"Santiago de Liniers, Reconquista","Santiago de Liniers, jefe de la Reconquista y virrey.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+735,Lobianco,Personalidad Local,Turquesa,,Quilmes,?,"probablemente Ing. Rosario Lobianco, diseñador aeronáutico de IMPA","Probablemente el ingeniero Rosario Lobianco, diseñador de aviones de IMPA.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/04/los-aviones-que-se-fabricaron-en-la.html
+736,Luis Jaramillo,Personalidad Local,Turquesa,,Quilmes Oeste,?,delegado obrero desaparecido,"Delegado obrero chileno de la firma SAIAR, desaparecido en 1976.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+737,Luisa Bertana,"Artistas, Musicos y Escritores",Bordo,,Quilmes Oeste,?,mezzosoprano quilmeña (1898-1933),Mezzosoprano quilmeña que triunfó en la Scala de Milán y en el Colón.,Mujer,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2020/01/luisa-bertana-la-opera-en-quilmes.html
+738,Madres de Plaza de Mayo,Varios,Negro,,Quilmes Oeste y Quilmes,?,,Movimiento de madres de desaparecidos.,Colectivo,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+739,Manuel Palanca,,,,San Francisco Solano y Villa La Florida,?,,Sin datos todavía.,,Cambió de nombre (en tu mapa: Calle 845),No identifiqué a quién o qué refiere el nombre
+740,Margarita Malharro de Torres,,,,Don Bosco,?,,Sin datos todavía.,Mujer,Cambió de nombre (en tu mapa: Calle 214),No identifiqué a quién o qué refiere el nombre
+741,María Luisa Martínez,Personalidad Local,Turquesa,,San Francisco Solano y Quilmes Oeste,?,obstetra desaparecida,Obstetra desaparecida durante la última dictadura. Antes calle 899.,Mujer,Cambió de nombre (en tu mapa: Calle 899),Completada con El Quilmero: https://elquilmero.blogspot.com/2010/12/maria-luisa-la-partera-del-hospital-de.html
+742,Marinero López,Militares Nacionales,Marron,,Quilmes,?,marino (no identificado),Marino (sin más datos).,Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+743,Martín Rodríguez,Politico Nacional,Amarillo,,Quilmes y Ezpeleta Oeste,?,gobernador de Buenos Aires,Militar y gobernador de Buenos Aires.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/07/celia-rodriguez-compmartin-de-pozzo.html
+744,Milagro Lizardo,,,,Villa La Florida y Quilmes Oeste,?,,Sin datos todavía.,Mujer,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+745,Molinari,,,,Quilmes Oeste,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+746,Nelson Valentín Cabello,Personalidad Local,Turquesa,,Bernal Oeste,?,desaparecido,"Joven del barrio La Cañada, desaparecido en 1977. Antes calle 171.",Hombre,Cambió de nombre (en tu mapa: Calle 171),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+747,Néstor De Vincenti Villaflor,Varios,Negro,,Quilmes Oeste,?,"desaparecido, hijo de Azucena Villaflor","Hijo de Azucena Villaflor, desaparecido.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+748,O'Higgins,Personalidades Internacionales,Rosa,,Quilmes y Ezpeleta,?,,"Bernardo O'Higgins, prócer de la independencia de Chile.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+749,Ortega,,,,Don Bosco,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+750,Oscar A. González,,,,Quilmes,?,,Sin datos todavía.,,Cambió de nombre (en tu mapa: Calle 94),No identifiqué a quién o qué refiere el nombre
+751,Osvaldo Tondino,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+752,Otamendi,Personalidad Local,Turquesa,,Bernal,?,Ing. Eduardo Otamendi (familia de arraigo en Quilmes),"Ingeniero Eduardo Otamendi, de una familia de arraigo en Quilmes.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/01/los-otamendi-de-quilmes-i-origenes-y.html
+753,Pablo Castro,Personalidad Local,Turquesa,,Quilmes Oeste,?,intendente (1911),Intendente de Quilmes (1911).,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2019/10/intendentes-desde-1900-hasta-el-primer.html
+754,Padre Juan,,,,Don Bosco,?,,Sin datos todavía.,,Cambió de nombre (en tu mapa: Calle 263),Dudosa. Sugerencia: Varios
+755,Paniza,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+756,Pasaje 20 de Agosto,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Batallas e Hitos Nacionales
+757,Pasaje A,Numeradas,Violeta,-,"Bernal Oeste, Quilmes y Ezpeleta",?,,Calle numerada.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+758,Pasaje B,Numeradas,Violeta,-,Bernal Oeste y Ezpeleta,?,,Calle numerada.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+759,Pasaje Burgos,"Geografia, Provincias y Ciudades",Verde Musgo,-,Don Bosco,?,"Paso de Burgos, topónimo",Antiguo Paso de Burgos.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2011/12/el-caso-del-juez-de-paz-paulino-barreiro.html
+760,Pasaje C,Numeradas,Violeta,-,Bernal Oeste y Ezpeleta,?,,Calle numerada.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+761,Pasaje Cacique Martín Iquin,Personalidad Local,Turquesa,,Ezpeleta,?,cacique de los quilmes en la Reducción,Cacique de los quilmes cuando fueron trasladados a la Reducción (1666).,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2016/08/encuentro-aniversario-con-el-cacique.html
+762,Pasaje D,Numeradas,Violeta,-,Bernal Oeste y Ezpeleta,?,,Calle numerada.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+763,Pasaje D bis,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+764,Pasaje E,Numeradas,Violeta,-,Bernal Oeste,?,,Calle numerada.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+765,Pasaje El Progreso,,,,Bernal Oeste,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Varios
+766,Pasaje Indios Kilmes,Varios,Negro,,Quilmes,?,pueblo originario,Pueblo originario que dio nombre a Quilmes.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/por-que-escribimos-kilmes-con-k-y-no.html
+767,Pasaje J. Carregal,,,,Ezpeleta,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+768,Pasaje Las Leonas,Varios,Negro,,Quilmes,?,seleccionado de hockey,Seleccionado femenino de hockey.,Colectivo,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+769,Pasaje Papa Francisco,Clerical,Gris Azulado,,Quilmes,?,,"Jorge Bergoglio, primer papa argentino.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+770,Pasaje Perito Moreno,Profesiones Liberales,Azul,,Ezpeleta,?,naturalista y explorador,"Francisco P. Moreno, naturalista y explorador de la Patagonia.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+771,Pasaje Saltimbanki,,,,Quilmes Oeste,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+772,Patricio Enríquez,,,,Bernal Oeste,?,,Sin datos todavía.,,"Cambió de nombre (en tu mapa: Calle 164, Doctor Fernando Isidoro Pozzo, Fernando Isidoro Pozzo)",No identifiqué a quién o qué refiere el nombre
+773,Patricios,Militares Nacionales,Marron,,Bernal,?,regimiento de Patricios,Regimiento de Patricios.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+774,Paula Albarracín,Varios,Negro,,Ezpeleta Oeste y Quilmes Oeste,?,madre de Sarmiento,Madre de Domingo F. Sarmiento.,Mujer,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+775,Pedro Elustondo,Personalidad Local,Turquesa,,Quilmes Oeste y Ezpeleta Oeste,?,"médico, impulsor del Hospital de Quilmes","Médico, impulsor de la Sociedad Pro Hospital de Quilmes (1919).",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2020/02/centenario-de-la-sociedad-pro-hospital.html
+776,Primero de Mayo,Batallas e Hitos Nacionales,Celeste,-,Quilmes y Quilmes Oeste,?,Día del Trabajador,Día Internacional de los Trabajadores.,,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+777,Profesor Agustín Bottaro,Personalidad Local,Turquesa,18/06/1987,Quilmes,?,educador,"Educador quilmeño, referente de la enseñanza de matemática.",Hombre,Nueva (de OSM),Completada con El Quilmero: http://www.redgalileo.unq.edu.ar/sitios/Media_15_Quilmes/index.htm
+778,Profesor Atilio Dupuy,Personalidad Local,Turquesa,,San Francisco Solano y Villa La Florida,?,educador,Educador de Solano. Antes calle 841.,Hombre,Cambió de nombre (en tu mapa: Calle 841),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/08/2-manifiesto-quilmero-al-349.html
+779,Profesor Guillermo Maier,Personalidad Local,Turquesa,,Quilmes Oeste,?,"educador, director de la Biblioteca Pública Municipal",Director de la Biblioteca Pública Municipal y editor de historia local.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/12/indice-de-publicaciones-editadas-por-la.html
+780,Profesor José Sosa del Valle,Personalidad Local,Turquesa,,Quilmes Oeste,?,"educador, primer director de la Escuela Normal",Primer director de la Escuela Normal de Quilmes.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2012/08/jose-domingo-sosa-del-valle-primer.html
+781,Pueyrredón,Politico Nacional,Amarillo,,Bernal,?,"Juan Martín de Pueyrredón, Director Supremo","Juan Martín de Pueyrredón, Director Supremo.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+782,Ramiro Héctor Ricardo Guede,Personalidad Local,Turquesa,07/10/1976,Villa La Florida,?,desaparecido,"Hijo de Dante Guede, desaparecido a los 19 años en 1976. Antes calle 873 bis.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+783,Ramón Quintana,Personalidad Local,Turquesa,,"San Francisco Solano, Villa La Florida y Quilmes Oeste",?,caído en Malvinas,"Ramón Omar Quintana, soldado quilmeño caído en la Guerra de Malvinas (1982). Antes calle 888.",Hombre,Cambió de nombre (en tu mapa: Calle 888),Completada con El Quilmero: https://elquilmero.blogspot.com/2022/05/el-recinto-del-hcd-quilmeno-se-llamara.html
+784,Raúl Ángel Bardelli,Personalidad Local,Turquesa,09/08/1977,Bernal Oeste,?,desaparecido,"Obrero del barrio La Cañada, desaparecido en 1977.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+785,Ricardo Miguel Ángel Morello,Personalidad Local,Turquesa,17/03/1977,Quilmes Oeste y San Francisco Solano,?,militante asesinado,Militante asesinado en 1977. Antes calle 896.,Hombre,Cambió de nombre (en tu mapa: Calle 896),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/03/calles-con-historia-24-de-marzo-dia.html
+786,Rosa Baratz,,,,San Francisco Solano,?,,Sin datos todavía.,Mujer,Cambió de nombre (en tu mapa: Calle 848),No identifiqué a quién o qué refiere el nombre
+787,Rosario Vera Peñaloza,Varios,Negro,28/05/1950,San Francisco Solano y Villa La Florida,?,educadora,"Maestra y pedagoga, pionera de la educación inicial. Antes calle 832.",Mujer,Cambió de nombre (en tu mapa: Calle 832),Completada con El Quilmero: https://elquilmero.blogspot.com/2016/10/escuela-primaria-n-37-rosario-vera.html
+788,Rotonda de Pasco,"Geografia, Provincias y Ciudades",Verde Musgo,-,Quilmes Oeste y Bernal Oeste,?,,Rotonda del Camino General Belgrano. Pasco es una ciudad del Perú.,,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/08/historia-y-presente-del-camino-general.html
+789,Santiago Servín,Personalidad Local,Turquesa,,San Francisco Solano,?,periodista desaparecido (La Voz de Solano),"Director del diario La Voz de Solano, desaparecido en 1976.",Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2015/10/ana-maria-estevao-40-anos-de-su.html
+790,Santo Domingo,"Geografia, Provincias y Ciudades",Verde Musgo,-,Bernal Oeste,?,arroyo / antigua capilla de Santo Domingo,"Arroyo y antigua capilla de los frailes dominicos, en el límite con Avellaneda.",,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2017/03/juan-y-guillermo-davidson-pioneros-del.html
+791,Sardou,,,,Quilmes,?,,Sin datos todavía.,,Nueva (de OSM),Dudosa. Sugerencia: Personalidades Internacionales
+792,Teniente Primero Carlos A. Brussa,Militares Nacionales,Marron,,Quilmes,?,,Militar (sin más datos).,Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+793,Tripulantes del ARA San Juan,Militares Nacionales,Marron,,Quilmes Oeste,?,submarino hundido en 2017,Los 44 tripulantes del submarino hundido en 2017.,,Cambió de nombre (en tu mapa: Calle 802),Completada por mí (sin fuente en el blog): revisar si querés
+794,Urrestarazu,,,,Quilmes Oeste,?,,Sin datos todavía.,,Nueva (de OSM),No identifiqué a quién o qué refiere el nombre
+795,Vélez Sarsfield,Politico Nacional,Amarillo,,Quilmes y Ezpeleta,?,"Dalmacio Vélez Sarsfield, jurista y ministro","Dalmacio Vélez Sarsfield, autor del Código Civil.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
+796,Víctor Fornabaio,Personalidad Local,Turquesa,,Quilmes Oeste y Quilmes,?,vecino de Quilmes,Vecino de Quilmes.,Hombre,Nueva (de OSM),Completada con El Quilmero: https://elquilmero.blogspot.com/2013/07/julio-rebole-artista-quilmeno-de-lo.html
+797,Zeballos,Politico Nacional,Amarillo,,Bernal Oeste y Bernal,?,Estanislao Zeballos,"Estanislao Zeballos, jurista, canciller y explorador.",Hombre,Nueva (de OSM),Completada por mí (sin fuente en el blog): revisar si querés
