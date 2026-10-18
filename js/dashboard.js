@@ -63,7 +63,6 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   const kpi = (valor, etiqueta, detalle) => el('div', { class: 'kpi' }, el('div', { class: 'kpi-v' }, valor), el('div', { class: 'kpi-l' }, etiqueta), detalle && el('div', { class: 'kpi-d' }, detalle));
   raiz.append(el('div', { class: 'kpis' },
     kpi(fmt(personas.length), 'homenajean a una persona', `${pct(personas.length, total)}% del total`),
-    kpi(fmt(mujeres.length), 'llevan nombre de mujer', `${pct(mujeres.length, conGenero.length)}% de las personas`),
     kpi(fmt(numeradas.length), 'siguen siendo numeradas', `${pct(numeradas.length, total)}% del total`)));
 
   const grid = el('div', { class: 'grid' });
@@ -90,7 +89,7 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
     el('div', { class: 'meter', role: 'img', 'aria-label': `${mujeres.length} mujeres y ${hombres} hombres` },
       el('span', { class: 'meter-fill', style: `width:${pct(mujeres.length, conGenero.length)}%` })),
     el('div', { class: 'meter-leg' }, el('span', {}, el('i', { class: 'k k-acc' }), `Mujeres: ${fmt(mujeres.length)}`), el('span', {}, el('i', { class: 'k k-trk' }), `Hombres: ${fmt(hombres)}`)),
-    el('p', { class: 'nota' }, 'Algunas: ', mujeres.slice().sort(() => 0.5 - Math.random()).slice(0, 6).map(c => c.nombre.replace(/^(Avenida|Av\.|Pasaje|Doctora)\s+/, '')).join(', '), '…')));
+    el('p', { class: 'nota' }, 'Algunas: ', [...new Set(mujeres.map(c => c.nombre.replace(/^(Avenida|Av\.|Pasaje|Doctora)\s+/, '')))].sort(() => 0.5 - Math.random()).slice(0, 6).join(', '), '…')));
 
   // --- Épocas (año de muerte)
   const bins = [['Antes de 1800', 0, 1799], ['1800–1849', 1800, 1849], ['1850–1899', 1850, 1899], ['1900–1949', 1900, 1949], ['1950–1999', 1950, 1999], ['Desde 2000', 2000, 3000]];
@@ -137,11 +136,12 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   // --- Datos curiosos
   // Largo de una calle: el menor entre la suma de tramos (que cuenta doble las de dos manos) y la distancia
   // entre sus puntas (que exagera cuando hay calles homónimas separadas).
-  const largo = c => Math.min(geo[c.indice].m, geo[c.indice].e ?? Infinity);
+  // y el largo del "corredor" (cuenta una sola vez las calles de dos manos dibujadas como dos líneas).
+  const largo = c => Math.min(geo[c.indice].m, geo[c.indice].e ?? Infinity, geo[c.indice].k ?? Infinity);
   const conGeo = calles.filter(c => geo[c.indice]);
   const larga = conGeo.reduce((a, b) => (largo(b) > largo(a) ? b : a), conGeo[0]);
   const nombreLargo = calles.filter(c => c.grupo !== 'Numerada').reduce((a, b) => (b.nombre.length > a.nombre.length ? b : a));
-  const desap = calles.filter(c => /desaparecid/i.test(c.desc + ' ' + c.varios));
+  const desap = calles.filter(c => /desaparecid/i.test(c.desc + ' ' + (c.varios || '')));
   const malvinas = calles.filter(c => /guerra de malvinas/i.test(c.desc));
   const genericas = new Set(['', 'calle numerada.', 'sin datos todavia.', 'arbol.', 'arbol frutal.', 'pais limitrofe.', 'pais centroamericano.', 'pais sudamericano.', 'presidente', 'provincia', 'bombero voluntario.', 'policia muerto en servicio.']);
   const porPersona = new Map();
@@ -155,6 +155,11 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   const repetido = [...porPersona.values()].sort((a, b) => b.length - a.length)[0] || [];
   const locNum = locs.map(lo => [lo.l, pct(lo.calles.filter(c => c.grupo === 'Numerada').length, lo.calles.length)]).sort((a, b) => b[1] - a[1])[0];
   const sinDatos = calles.filter(c => !c.grupo || !c.desc || /^sin datos/i.test(c.desc));
+  const nombradas = calles.filter(c => c.grupo && c.grupo !== 'Numerada');
+  const capital = nombradas.filter(c => c.capital);
+  const antiguo = personas.filter(c => c.anio).sort((a, b) => a.anio - b.anio)[0];
+  const vivos = calles.filter(c => /^viv/i.test(c.fecha));
+  const fechas = calles.filter(c => /^(calle |avenida |pasaje )?(\d{1,2}|primero) de [a-z]/i.test(c.nombre));
   const dato = (titulo, valor, texto, accion) => el('div', { class: 'dato' }, el('div', { class: 'dato-t' }, titulo), el('div', { class: 'dato-v' }, valor), el('p', {}, texto),
     accion && el('button', { type: 'button', class: 'link', onclick: accion }, 'Ver en el mapa'));
   grid.append(el('div', { class: 'span2' }, tarjeta('Datos curiosos', null, el('div', { class: 'datos' },
@@ -163,6 +168,10 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
     dato('Nombre más largo', `${nombreLargo.nombre.length} letras`, `${nombreLargo.nombre}.`, () => acciones.verCalle(nombreLargo.indice)),
     desap.length && dato('Calles de la memoria', fmt(desap.length), 'calles llevan el nombre de desaparecidos durante las dictaduras.', () => acciones.verCategoria('Personalidad Local')),
     malvinas.length && dato('Malvinas', fmt(malvinas.length), 'calles homenajean a soldados quilmeños de la guerra de 1982.', null),
+    capital.length && dato('Gemelas en Capital', `${pct(capital.length, nombradas.length)}%`, `de las calles con nombre propio (${fmt(capital.length)}) tienen una calle con el mismo nombre en la Ciudad de Buenos Aires.`, null),
+    antiguo && dato('El homenaje más antiguo', String(antiguo.anio), `${antiguo.nombre}: ${antiguo.desc.replace(/\.$/, '')}.`, () => acciones.verCalle(antiguo.indice)),
+    vivos.length && dato('Todavía viven', fmt(vivos.length), `calles homenajean a personas vivas: ${vivos.map(c => c.nombre.replace(/^(Presidente|Avenida)\s+/, '')).join(' y ')}.`, () => acciones.verCalle(vivos[0].indice)),
+    fechas.length && dato('Calles con fecha', fmt(fechas.length), `calles llevan el nombre de una fecha, como ${fechas.slice(0, 3).map(c => c.nombre).join(', ')}.`, null),
     locNum && dato('La más numerada', `${locNum[1]}%`, `de las calles de ${locNum[0]} todavía no tienen nombre propio.`, null),
     sinDatos.length && dato('Por completar', fmt(sinDatos.length), 'calles todavía sin categoría o sin descripción. ¿Sabés quiénes son?', null)))));
 

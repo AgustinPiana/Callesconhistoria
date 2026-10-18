@@ -50,10 +50,10 @@ function limpiar(r) {
     anio: anio(r['Fecha de muerte']),
     localidad: r['Localidad'],
     localidades: localidades(r['Localidad']),
-    varios: r['Varios'],
+    varios: r['Varios'] || '',
+    capital: norm(r['Está en capital?'] || r['Esta en capital?']).startsWith('s'),
     desc: r['Descripción'] || r['Descripcion'] || '',
     genero: r['Género'] || r['Genero'] || '',
-    origen: r['Origen'] || '',
   };
 }
 

@@ -106,5 +106,50 @@
   "tipo": "curiosa",
   "titulo": "Evita y Maradona",
   "texto": "Dos íconos populares argentinos en la misma esquina de Solano."
+ },
+ {
+  "a": 663,
+  "b": 665,
+  "lat": -34.72172,
+  "lng": -58.26666,
+  "tipo": "curiosa",
+  "titulo": "Los dos López",
+  "texto": "Rodolfo López, vecino de Quilmes, y Vicente López y Planes, autor del Himno Nacional. No eran parientes, pero se cruzan."
+ },
+ {
+  "a": 393,
+  "b": 599,
+  "lat": -34.73002,
+  "lng": -58.25392,
+  "tipo": "amistad",
+  "titulo": "Guido y San Martín",
+  "texto": "Tomás Guido fue el amigo más fiel y confidente de San Martín. Se escribieron durante toda la vida, incluso en el exilio."
+ },
+ {
+  "a": 55,
+  "b": 599,
+  "lat": -34.71276,
+  "lng": -58.26679,
+  "tipo": "amistad",
+  "titulo": "Las Heras y San Martín",
+  "texto": "Juan Gregorio de Las Heras comandó una de las columnas del Ejército de los Andes y fue mano derecha de San Martín en Chile y Perú."
+ },
+ {
+  "a": 31,
+  "b": 307,
+  "lat": -34.74009,
+  "lng": -58.29441,
+  "tipo": "rivalidad",
+  "titulo": "Roca y Pellegrini",
+  "texto": "Aliados durante años en el Partido Autonomista Nacional, rompieron en 1901 por la unificación de la deuda externa."
+ },
+ {
+  "a": 46,
+  "b": 395,
+  "lat": -34.76948,
+  "lng": -58.28331,
+  "tipo": "historia",
+  "titulo": "Mosconi y Savio",
+  "texto": "Petróleo y acero: Mosconi creó YPF y Savio impulsó la siderurgia. Dos generales que soñaron la industria nacional."
  }
 ]
