@@ -44,7 +44,7 @@ function tarjeta(titulo, subtitulo, ...cuerpo) {
   return el('section', { class: 'card' }, el('h3', {}, titulo), subtitulo && el('p', { class: 'sub' }, subtitulo), ...cuerpo);
 }
 
-export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones) {
+export function crearDashboard(raiz, { calles, geo, esquinas, presidentes = [], fuente }, acciones) {
   const total = calles.length;
   // "Desconocido" = homenajea a una persona pero no sabemos si es hombre o mujer (solo el apellido).
   const personas = calles.filter(c => ['Mujer', 'Hombre', 'Desconocido'].includes(c.genero));
@@ -132,6 +132,41 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   grid.append(el('div', { class: 'span2' }, tarjeta('Cada barrio, su personalidad',
     'Qué porcentaje de las calles de cada localidad pertenece a cada categoría. El número marca la categoría que más pesa en cada una. Una calle que cruza dos localidades cuenta en las dos.',
     el('div', { class: 'heat-wrap' }, heat, tabla), toggle)));
+
+  // --- Mujeres por localidad
+  const mujLoc = locs.map(lo => {
+    const ps = lo.calles.filter(c => c.genero === 'Mujer' || c.genero === 'Hombre');
+    const m = ps.filter(c => c.genero === 'Mujer');
+    return { l: lo.l, m: m.length, n: ps.length, p: ps.length ? (m.length / ps.length) * 100 : 0, nombres: [...new Set(m.map(c => c.nombre))] };
+  }).sort((a, b) => b.p - a.p);
+  const maxM = Math.max(1, ...mujLoc.map(x => x.p));
+  grid.append(tarjeta('Mujeres por localidad', 'Porcentaje de las calles con nombre de persona que homenajean a una mujer.',
+    el('div', { class: 'bars' }, mujLoc.map(x => {
+      const fila = el('div', { class: 'bar-row bar-row-static' },
+        el('span', { class: 'bar-l' }, x.l, el('span', { class: 'bar-n' }, `${x.m} de ${x.n}`)),
+        el('span', { class: 'bar-track' }, el('span', { class: 'bar', style: `width:${(x.p / maxM) * 100}%` })),
+        el('span', { class: 'bar-v' }, `${Math.round(x.p)}%`));
+      conTooltip(fila, `${x.m} de ${x.n} calles`, x.nombres.length ? x.nombres.slice(0, 5).join(', ') + (x.nombres.length > 5 ? '…' : '') : 'Ninguna calle con nombre de mujer');
+      return fila;
+    }))));
+
+  // --- Presidentes con calle
+  const existe = new Set(calles.map(c => c.indice));
+  const pres = presidentes.map(p => ({ ...p, calles: p.calles.filter(i => existe.has(i)) }));
+  const conCalle = pres.filter(p => p.calles.length);
+  if (pres.length) {
+    const nombreDe = i => calles.find(c => c.indice === i)?.nombre;
+    grid.append(tarjeta('¿Qué presidentes tienen calle?',
+      `${conCalle.length} de los ${pres.length} presidentes de la Nación tienen una calle en Quilmes. Ningún presidente de facto tiene calle.`,
+      el('div', { class: 'pres' }, pres.map(p => {
+        const tiene = p.calles.length > 0;
+        const item = el(tiene ? 'button' : 'div', { class: 'pres-i' + (tiene ? ' si' : ''), ...(tiene ? { type: 'button', onclick: () => acciones.verCalle(p.calles[0]) } : {}) },
+          el('span', { class: 'pres-dot', 'aria-hidden': 'true' }), el('span', { class: 'pres-n' }, p.nombre), el('span', { class: 'pres-p' }, p.periodo));
+        conTooltip(item, tiene ? p.calles.map(nombreDe).join(' · ') : 'Sin calle en Quilmes', p.nota || p.periodo);
+        return item;
+      })),
+      el('div', { class: 'meter-leg' }, el('span', {}, el('i', { class: 'k k-acc' }), 'Tiene calle'), el('span', {}, el('i', { class: 'k k-hollow' }), 'No tiene'))));
+  }
 
   // --- Datos curiosos
   // Largo de una calle: el menor entre la suma de tramos (que cuenta doble las de dos manos) y la distancia

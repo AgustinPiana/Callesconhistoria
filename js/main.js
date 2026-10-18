@@ -16,11 +16,12 @@ const irAlMapa = () => { if (location.hash !== '#mapa') location.hash = 'mapa'; 
 window.addEventListener('hashchange', () => mostrar(location.hash.slice(1)));
 
 try {
-  const [{ calles, fuente }, geo, esquinas, limite] = await Promise.all([cargarCalles(), cargarJSON('data/geometria.json'),
-    cargarJSON('data/esquinas.json'), cargarJSON('data/limite.json').catch(() => null)]);
+  const [{ calles, fuente }, geo, esquinas, limite, presidentes] = await Promise.all([cargarCalles(), cargarJSON('data/geometria.json'),
+    cargarJSON('data/esquinas.json'), cargarJSON('data/limite.json').catch(() => null),
+    cargarJSON('data/presidentes.json').catch(() => [])]);
   mostrar(location.hash.slice(1) || 'mapa');
   mapa = crearMapa({ calles, geo, esquinas, limite });
-  crearDashboard(document.getElementById('dashboard'), { calles, geo, esquinas, fuente }, {
+  crearDashboard(document.getElementById('dashboard'), { calles, geo, esquinas, presidentes, fuente }, {
     verCategoria: nombre => { irAlMapa(); mapa.soloCategoria(nombre); },
     verCalle: indice => { irAlMapa(); setTimeout(() => mapa.irACalle(indice), 50); },
     verEsquina: e => { irAlMapa(); setTimeout(() => mapa.irAEsquina(e), 50); },
