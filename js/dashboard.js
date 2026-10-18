@@ -50,8 +50,7 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   const personas = calles.filter(c => ['Mujer', 'Hombre', 'Desconocido'].includes(c.genero));
   const conGenero = personas.filter(c => c.genero !== 'Desconocido');
   const mujeres = personas.filter(c => c.genero === 'Mujer');
-  const numeradas = calles.filter(c => c.grupo === 'Numeradas');
-  const renombradas = calles.filter(c => /^cambi[oó] de nombre/i.test(c.origen));
+  const numeradas = calles.filter(c => c.grupo === 'Numerada');
   const porCat = new Map([...CATEGORIAS, SIN_CATEGORIA].map(c => [c.nombre, { cat: c, calles: [] }]));
   calles.forEach(c => porCat.get(c.grupo)?.calles.push(c));
 
@@ -65,8 +64,7 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   raiz.append(el('div', { class: 'kpis' },
     kpi(fmt(personas.length), 'homenajean a una persona', `${pct(personas.length, total)}% del total`),
     kpi(fmt(mujeres.length), 'llevan nombre de mujer', `${pct(mujeres.length, conGenero.length)}% de las personas`),
-    kpi(fmt(numeradas.length), 'siguen siendo numeradas', `${pct(numeradas.length, total)}% del total`),
-    renombradas.length ? kpi(fmt(renombradas.length), 'eran numeradas y hoy tienen nombre', 'según OpenStreetMap') : null));
+    kpi(fmt(numeradas.length), 'siguen siendo numeradas', `${pct(numeradas.length, total)}% del total`)));
 
   const grid = el('div', { class: 'grid' });
   raiz.append(grid);
@@ -95,7 +93,7 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
     el('p', { class: 'nota' }, 'Algunas: ', mujeres.slice().sort(() => 0.5 - Math.random()).slice(0, 6).map(c => c.nombre.replace(/^(Avenida|Av\.|Pasaje|Doctora)\s+/, '')).join(', '), '…')));
 
   // --- Épocas (año de muerte)
-  const bins = [['Antes de 1800', 0, 1799], ['1800–1849', 1800, 1849], ['1850–1899', 1850, 1899], ['1900–1949', 1900, 1949], ['1950–1999', 1950, 1999], ['2000 en adelante', 2000, 3000]];
+  const bins = [['Antes de 1800', 0, 1799], ['1800–1849', 1800, 1849], ['1850–1899', 1850, 1899], ['1900–1949', 1900, 1949], ['1950–1999', 1950, 1999], ['Desde 2000', 2000, 3000]];
   const conAnio = calles.filter(c => c.anio);
   const cuentas = bins.map(([l, a, b]) => [l, conAnio.filter(c => c.anio >= a && c.anio <= b).length]);
   const maxB = Math.max(1, ...cuentas.map(x => x[1]));
@@ -120,8 +118,9 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
       el('div', { class: 'heat-r' }, el('span', { class: 'sw' + (ca === SIN_CATEGORIA ? ' sw-dash' : ''), style: `background:${ca.color}` }), ca.etiqueta),
       locs.map(lo => {
         const v = val(lo, ca);
-        const i = v ? Math.min(RAMPA.length - 1, Math.round((v / maxH) * (RAMPA.length - 1))) : -1;
-        const celda = el('div', { class: 'heat-c', style: i >= 0 ? `background:${RAMPA[i]};color:${i >= 6 ? '#fff' : 'var(--ink)'}` : '' },
+        // Escala de raíz cuadrada: los porcentajes chicos se distinguen entre sí; el 0 queda en gris.
+        const i = v ? 1 + Math.round(Math.sqrt(v / maxH) * (RAMPA.length - 2)) : -1;
+        const celda = el('div', { class: 'heat-c', style: i >= 0 ? `background:${RAMPA[i]};color:${i >= 7 ? '#fff' : 'var(--ink)'}` : '' },
           topDe.get(lo.l) === ca ? `${v}%` : '');
         conTooltip(celda, `${v}% de las calles`, `${ca.etiqueta} en ${lo.l}`);
         return celda;
@@ -137,11 +136,11 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
 
   // --- Datos curiosos
   // Largo de una calle: el menor entre la suma de tramos (que cuenta doble las de dos manos) y la distancia
-  // entre sus puntas (que exagera cuando hay calles homónimas separadas). La autopista no compite.
+  // entre sus puntas (que exagera cuando hay calles homónimas separadas).
   const largo = c => Math.min(geo[c.indice].m, geo[c.indice].e ?? Infinity);
-  const conGeo = calles.filter(c => geo[c.indice] && !/^autopista/i.test(c.nombre));
+  const conGeo = calles.filter(c => geo[c.indice]);
   const larga = conGeo.reduce((a, b) => (largo(b) > largo(a) ? b : a), conGeo[0]);
-  const nombreLargo = calles.filter(c => c.grupo !== 'Numeradas').reduce((a, b) => (b.nombre.length > a.nombre.length ? b : a));
+  const nombreLargo = calles.filter(c => c.grupo !== 'Numerada').reduce((a, b) => (b.nombre.length > a.nombre.length ? b : a));
   const desap = calles.filter(c => /desaparecid/i.test(c.desc + ' ' + c.varios));
   const malvinas = calles.filter(c => /guerra de malvinas/i.test(c.desc));
   const genericas = new Set(['', 'calle numerada.', 'sin datos todavia.', 'arbol.', 'arbol frutal.', 'pais limitrofe.', 'pais centroamericano.', 'pais sudamericano.', 'presidente', 'provincia', 'bombero voluntario.', 'policia muerto en servicio.']);
@@ -154,19 +153,18 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
     porPersona.set(k, [...(porPersona.get(k) || []), c]);
   });
   const repetido = [...porPersona.values()].sort((a, b) => b.length - a.length)[0] || [];
-  const locNum = locs.map(lo => [lo.l, pct(lo.calles.filter(c => c.grupo === 'Numeradas').length, lo.calles.length)]).sort((a, b) => b[1] - a[1])[0];
+  const locNum = locs.map(lo => [lo.l, pct(lo.calles.filter(c => c.grupo === 'Numerada').length, lo.calles.length)]).sort((a, b) => b[1] - a[1])[0];
   const sinDatos = calles.filter(c => !c.grupo || !c.desc || /^sin datos/i.test(c.desc));
   const dato = (titulo, valor, texto, accion) => el('div', { class: 'dato' }, el('div', { class: 'dato-t' }, titulo), el('div', { class: 'dato-v' }, valor), el('p', {}, texto),
     accion && el('button', { type: 'button', class: 'link', onclick: accion }, 'Ver en el mapa'));
   grid.append(el('div', { class: 'span2' }, tarjeta('Datos curiosos', null, el('div', { class: 'datos' },
-    larga && dato('La más larga', `${(largo(larga) / 1000).toLocaleString('es-AR', { maximumFractionDigits: 1 })} km`, `${larga.nombre} (sin contar la autopista).`, () => acciones.verCalle(larga.indice)),
+    larga && dato('La más larga', `${(largo(larga) / 1000).toLocaleString('es-AR', { maximumFractionDigits: 1 })} km`, `${larga.nombre}.`, () => acciones.verCalle(larga.indice)),
     repetido.length > 1 && dato('El más homenajeado', `${repetido.length} calles`, `${repetido.map(c => c.nombre).join(', ')}.`, () => acciones.verCalle(repetido[0].indice)),
     dato('Nombre más largo', `${nombreLargo.nombre.length} letras`, `${nombreLargo.nombre}.`, () => acciones.verCalle(nombreLargo.indice)),
     desap.length && dato('Calles de la memoria', fmt(desap.length), 'calles llevan el nombre de desaparecidos durante las dictaduras.', () => acciones.verCategoria('Personalidad Local')),
     malvinas.length && dato('Malvinas', fmt(malvinas.length), 'calles homenajean a soldados quilmeños de la guerra de 1982.', null),
     locNum && dato('La más numerada', `${locNum[1]}%`, `de las calles de ${locNum[0]} todavía no tienen nombre propio.`, null),
-    renombradas.length && dato('De número a nombre', fmt(renombradas.length), 'calles que en el relevamiento original eran numeradas ya tienen nombre según OpenStreetMap.', null),
-    dato('Por completar', fmt(sinDatos.length), 'calles todavía sin categoría o sin descripción. ¿Sabés quiénes son?', null)))));
+    sinDatos.length && dato('Por completar', fmt(sinDatos.length), 'calles todavía sin categoría o sin descripción. ¿Sabés quiénes son?', null)))));
 
   // --- Esquinas con historia
   grid.append(el('div', { class: 'span2' }, tarjeta('Esquinas con historia', 'Cruces de calles reales donde se encuentran rivales, amigos o casualidades.',
@@ -201,4 +199,5 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
 
   raiz.append(el('p', { class: 'fuente' }, fuente === 'sheets' ? 'Datos leídos en vivo de la planilla de Google Sheets.' : 'Datos de la copia local de la planilla.',
     ' Trazado de calles: © colaboradores de OpenStreetMap.'));
+  raiz.append(el('p', { class: 'powered' }, 'Powered by ', el('a', { href: 'https://keep-ds.com/', target: '_blank', rel: 'noopener' }, 'Keep')));
 }

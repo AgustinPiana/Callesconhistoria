@@ -1,4 +1,4 @@
-import { SHEET_ID, SHEET_NAME, CATEGORIAS, SIN_CATEGORIA, ALIAS_LOCALIDAD } from './config.js';
+import { SHEET_ID, SHEET_NAME, CATEGORIAS, SIN_CATEGORIA, ALIAS_CATEGORIA, ALIAS_LOCALIDAD, EXCLUIR } from './config.js';
 
 // CSV mínimo con comillas y saltos de línea dentro de campos.
 export function parseCSV(text) {
@@ -23,6 +23,7 @@ export function parseCSV(text) {
 }
 
 const CAT = Object.fromEntries(CATEGORIAS.map(c => [norm(c.nombre), c]));
+for (const [viejo, nuevo] of Object.entries(ALIAS_CATEGORIA)) CAT[norm(viejo)] = CAT[norm(nuevo)];
 export function norm(s) {
   return String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
 }
@@ -66,7 +67,7 @@ async function texto(url) {
 // El género sale de la columna "Género" de la planilla si existe; si no, de data/genero.json (por Indice).
 export async function cargarCalles() {
   const genero = await cargarJSON('data/genero.json').catch(() => ({}));
-  const preparar = filas => filas.map(limpiar).filter(c => c.nombre)
+  const preparar = filas => filas.map(limpiar).filter(c => c.nombre && !EXCLUIR.test(c.nombre))
     .map(c => (c.genero ? c : { ...c, genero: genero[c.indice] || '' }));
   if (SHEET_ID) {
     try {

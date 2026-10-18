@@ -4,13 +4,21 @@ import { norm } from './data.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
-export function crearMapa({ calles, geo, esquinas }) {
+export function crearMapa({ calles, geo, esquinas, limite }) {
   const map = L.map('map', { preferCanvas: true, zoomControl: true }).setView([-34.745, -58.28], 13);
   // Mosaicos estándar de OpenStreetMap, en gris (ver .base-gris en el CSS) para que resalten los colores de las calles.
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19, className: 'base-gris',
     attribution: '© <a href="https://www.openstreetmap.org/copyright">colaboradores de OpenStreetMap</a>',
   }).addTo(map);
+
+  // Tapa todo lo que queda fuera del partido (incluidos los nombres de los municipios vecinos) y marca el borde.
+  if (limite?.length) {
+    const mundo = [[-90, -180], [-90, 180], [90, 180], [90, -180]];
+    L.polygon([mundo, limite], { stroke: false, fillColor: '#f2f2ef', fillOpacity: 1, interactive: false, className: 'fuera' }).addTo(map);
+    L.polygon(limite, { color: '#52514e', weight: 1.5, fill: false, interactive: false }).addTo(map);
+    map.setMaxBounds(L.latLngBounds(limite).pad(0.6));
+  }
 
   const visibles = new Set([...CATEGORIAS.map(c => c.nombre), SIN_CATEGORIA.nombre]);
   const capas = [];

@@ -68,7 +68,7 @@ input[type=search], select { width: 100%; padding: 9px 11px; border: 1px solid v
 .cat .n { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; font-size: 13px; }
 .cat[aria-pressed="false"] { opacity: .35; }
 .chk { display: flex; gap: 8px; align-items: center; margin-top: 14px; font-size: 14px; cursor: pointer; }
-.tt { max-width: 280px; white-space: normal; }
+.tt { width: max-content; max-width: 320px; white-space: normal; line-height: 1.35; }
 .esq { font-size: 22px; line-height: 1; text-shadow: 0 0 3px #fff, 0 0 6px #fff; cursor: pointer; background: none; border: 0; }
 .pop { max-width: 270px; }
 .pop b { font-size: 15px; }
@@ -115,12 +115,12 @@ input[type=search], select { width: 100%; padding: 9px 11px; border: 1px solid v
 .nota { color: var(--muted); font-size: 13px; margin: 12px 0 0; }
 
 /* Columnas */
-.cols { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; align-items: end; }
+.cols { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; align-items: start; }
 .col-plot { height: 150px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; border-bottom: 1px solid var(--axis); }
 .col-bar { width: min(24px, 70%); background: var(--accent); border-radius: 4px 4px 0 0; min-height: 2px; }
 .col:hover .col-bar, .col:focus-visible .col-bar { filter: brightness(1.12); }
 .col-v { font-size: 13px; color: var(--ink-2); margin-bottom: 4px; font-variant-numeric: tabular-nums; }
-.col-l { font-size: 12px; color: var(--muted); text-align: center; margin-top: 6px; line-height: 1.25; }
+.col-l { font-size: 12px; color: var(--muted); text-align: center; margin-top: 6px; line-height: 1.25; min-height: 2.5em; }
 .col { outline-offset: 2px; }
 
 /* Mapa de calor */
@@ -159,6 +159,10 @@ input[type=search], select { width: 100%; padding: 9px 11px; border: 1px solid v
 .tbl td:nth-child(2) { white-space: nowrap; }
 .tbl-heat td { font-variant-numeric: tabular-nums; }
 .fuente { color: var(--muted); font-size: 13px; text-align: center; margin-top: 24px; }
+.powered { color: var(--muted); font-size: 12px; text-align: center; margin: 6px 0 0; }
+.panel .powered { text-align: left; margin-top: 18px; }
+.powered a { color: var(--ink-2); }
+.fuera { pointer-events: none; }
 
 .tip { position: fixed; z-index: 2000; display: none; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--border);
   border-radius: 8px; padding: 7px 10px; box-shadow: 0 4px 16px rgba(0,0,0,.12); font-size: 13px; max-width: 260px; }
