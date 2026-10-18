@@ -3,7 +3,7 @@
 // SHEET_ID: el código de la planilla de Google Sheets (lo que va entre /d/ y /edit en el link).
 // La planilla tiene que estar compartida como "Cualquier persona con el enlace: Lector".
 // Si queda vacío, o si Google no responde, el sitio usa la copia local data/calles.csv.
-export const SHEET_ID = '';
+export const SHEET_ID = '1GfRQUZs_v026q9RT0hPR09zJtf94eYb_';
 export const SHEET_NAME = 'Hoja 1';
 
 // Categorías en el orden en que aparecen en la leyenda, con el color de cada una en el mapa.

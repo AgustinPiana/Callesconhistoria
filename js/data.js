@@ -63,17 +63,21 @@ async function texto(url) {
 }
 
 // Devuelve { calles, fuente }. Intenta Google Sheets y, si falla, la copia local.
+// El género sale de la columna "Género" de la planilla si existe; si no, de data/genero.json (por Indice).
 export async function cargarCalles() {
+  const genero = await cargarJSON('data/genero.json').catch(() => ({}));
+  const preparar = filas => filas.map(limpiar).filter(c => c.nombre)
+    .map(c => (c.genero ? c : { ...c, genero: genero[c.indice] || '' }));
   if (SHEET_ID) {
     try {
       const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(SHEET_NAME)}`;
       const filas = parseCSV(await texto(url));
-      if (filas.length && 'Nombre' in filas[0]) return { calles: filas.map(limpiar).filter(c => c.nombre), fuente: 'sheets' };
+      if (filas.length && 'Nombre' in filas[0]) return { calles: preparar(filas), fuente: 'sheets' };
     } catch (e) {
       console.warn('No se pudo leer Google Sheets, uso la copia local.', e);
     }
   }
-  return { calles: parseCSV(await texto('data/calles.csv')).map(limpiar).filter(c => c.nombre), fuente: 'local' };
+  return { calles: preparar(parseCSV(await texto('data/calles.csv'))), fuente: 'local' };
 }
 
 export async function cargarJSON(url) {

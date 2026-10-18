@@ -46,7 +46,9 @@ function tarjeta(titulo, subtitulo, ...cuerpo) {
 
 export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones) {
   const total = calles.length;
-  const personas = calles.filter(c => c.genero === 'Mujer' || c.genero === 'Hombre');
+  // "Desconocido" = homenajea a una persona pero no sabemos si es hombre o mujer (solo el apellido).
+  const personas = calles.filter(c => ['Mujer', 'Hombre', 'Desconocido'].includes(c.genero));
+  const conGenero = personas.filter(c => c.genero !== 'Desconocido');
   const mujeres = personas.filter(c => c.genero === 'Mujer');
   const numeradas = calles.filter(c => c.grupo === 'Numeradas');
   const renombradas = calles.filter(c => /^cambi[oó] de nombre/i.test(c.origen));
@@ -62,7 +64,7 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
   const kpi = (valor, etiqueta, detalle) => el('div', { class: 'kpi' }, el('div', { class: 'kpi-v' }, valor), el('div', { class: 'kpi-l' }, etiqueta), detalle && el('div', { class: 'kpi-d' }, detalle));
   raiz.append(el('div', { class: 'kpis' },
     kpi(fmt(personas.length), 'homenajean a una persona', `${pct(personas.length, total)}% del total`),
-    kpi(fmt(mujeres.length), 'llevan nombre de mujer', `${pct(mujeres.length, personas.length)}% de las personas`),
+    kpi(fmt(mujeres.length), 'llevan nombre de mujer', `${pct(mujeres.length, conGenero.length)}% de las personas`),
     kpi(fmt(numeradas.length), 'siguen siendo numeradas', `${pct(numeradas.length, total)}% del total`),
     renombradas.length ? kpi(fmt(renombradas.length), 'eran numeradas y hoy tienen nombre', 'según OpenStreetMap') : null));
 
@@ -83,11 +85,12 @@ export function crearDashboard(raiz, { calles, geo, esquinas, fuente }, acciones
     }))));
 
   // --- Mujeres y hombres (medidor)
-  const hombres = personas.length - mujeres.length;
-  grid.append(tarjeta('¿Mujeres u hombres?', `De las ${fmt(personas.length)} calles que homenajean a una persona.`,
-    el('div', { class: 'meter-num' }, el('span', { class: 'big' }, `${pct(mujeres.length, personas.length)}%`), ' son mujeres'),
+  const hombres = conGenero.length - mujeres.length;
+  const sinDato = personas.length - conGenero.length;
+  grid.append(tarjeta('¿Mujeres u hombres?', `De las ${fmt(conGenero.length)} calles que homenajean a una persona identificada${sinDato ? ` (otras ${sinDato} solo tienen apellido)` : ''}.`,
+    el('div', { class: 'meter-num' }, el('span', { class: 'big' }, `${pct(mujeres.length, conGenero.length)}%`), ' son mujeres'),
     el('div', { class: 'meter', role: 'img', 'aria-label': `${mujeres.length} mujeres y ${hombres} hombres` },
-      el('span', { class: 'meter-fill', style: `width:${pct(mujeres.length, personas.length)}%` })),
+      el('span', { class: 'meter-fill', style: `width:${pct(mujeres.length, conGenero.length)}%` })),
     el('div', { class: 'meter-leg' }, el('span', {}, el('i', { class: 'k k-acc' }), `Mujeres: ${fmt(mujeres.length)}`), el('span', {}, el('i', { class: 'k k-trk' }), `Hombres: ${fmt(hombres)}`)),
     el('p', { class: 'nota' }, 'Algunas: ', mujeres.slice().sort(() => 0.5 - Math.random()).slice(0, 6).map(c => c.nombre.replace(/^(Avenida|Av\.|Pasaje|Doctora)\s+/, '')).join(', '), '…')));
 

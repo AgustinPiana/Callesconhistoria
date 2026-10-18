@@ -12,6 +12,7 @@ Sitio estático (HTML + JavaScript, sin compilación). Se publica en Vercel tal 
   Si Google no responde, el sitio usa la copia `data/calles.csv`.
 - **Trazado de las calles**: `data/geometria.json`, sacado de OpenStreetMap. Se une a la
   planilla por la columna **Indice**: no cambies ni reutilices esos números.
+- **Género** (Mujer / Hombre / Colectivo / Desconocido): columna "Género" de la planilla si existe; si no, `data/genero.json` por Indice.
 - **Esquinas con historia**: `data/esquinas.json`.
 
 Columnas que usa el sitio: Indice, Nombre, Grupo, Fecha de muerte, Localidad, Varios,
